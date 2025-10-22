@@ -82,6 +82,32 @@ app.post("/amoy/dagRuns", (req, res) => {
     res.send("Received Event!");
 });
 
+app.post("/opSepolia/dagRuns", (req, res) => {
+    console.log(req.body.conf.event_data);
+    const data = req.body.conf.event_data;
+    logger.info(JSON.stringify(req.body));
+    const conf = req.body.conf;
+    const filePath = path.join(__dirname, `event_data_${CHAIN}.log`);
+    fs.appendFileSync(filePath, data + "\n", "utf8");
+    const time = new Date().toISOString();
+
+    insertIntoDb(TABLE_NAME, conf.transaction_id, conf.block_number, conf.event_name, conf.event_data, new Date().toISOString());
+    res.send("Received Event!");
+});
+
+app.post("/fuji/dagRuns", (req, res) => {
+    console.log(req.body.conf.event_data);
+    const data = req.body.conf.event_data;
+    logger.info(JSON.stringify(req.body));
+    const conf = req.body.conf;
+    const filePath = path.join(__dirname, `event_data_${CHAIN}.log`);
+    fs.appendFileSync(filePath, data + "\n", "utf8");
+    const time = new Date().toISOString();
+
+    insertIntoDb(TABLE_NAME, conf.transaction_id, conf.block_number, conf.event_name, conf.event_data, new Date().toISOString());
+    res.send("Received Event!");
+});
+
 // === Transaction Body ===
 const txBody = {
     functionSignature: FUNCTION_SIGNATURE,

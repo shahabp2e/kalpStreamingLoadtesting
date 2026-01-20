@@ -1,0 +1,568 @@
+2026-01-14 18:48:57 [32minfo[39m: [general] - 	service_1amoy running on port 6001
+2026-01-14 18:48:58 [32minfo[39m: [general] - 	count is 1
+2026-01-14 18:49:01 [32minfo[39m: [general] - 	Record inserted for 0x24568b69060b4412ddcdcea1b586e00ad7fbbdb67a8870d3ae5c21fe45547a1f with queue_id e6adc22d-ee8b-48e4-977a-b8226fa64245
+2026-01-14 18:49:01 [32minfo[39m: [general] - 	tx sent 0x24568b69060b4412ddcdcea1b586e00ad7fbbdb67a8870d3ae5c21fe45547a1f for polygon_amoy
+2026-01-14 18:50:01 [32minfo[39m: [general] - 	count is 2
+2026-01-14 18:50:05 [32minfo[39m: [general] - 	Record inserted for 0x7e1fa799c8f09d43e76c34edd711bab900880a08624c4653739e2085598d9c04 with queue_id 4b1ec00a-02e2-492d-a194-a78226a03001
+2026-01-14 18:50:05 [32minfo[39m: [general] - 	tx sent 0x7e1fa799c8f09d43e76c34edd711bab900880a08624c4653739e2085598d9c04 for polygon_amoy
+2026-01-14 18:51:01 [32minfo[39m: [general] - 	count is 3
+2026-01-14 18:51:05 [32minfo[39m: [general] - 	Record inserted for 0x63a9822a9cc7093d28dba154b7a7515e9b890d4bcfc24bb0bec4ccaf6a6498e3 with queue_id d6e4cef0-b8ca-4aa1-8c95-81e9429109fc
+2026-01-14 18:51:05 [32minfo[39m: [general] - 	tx sent 0x63a9822a9cc7093d28dba154b7a7515e9b890d4bcfc24bb0bec4ccaf6a6498e3 for polygon_amoy
+2026-01-14 18:52:01 [32minfo[39m: [general] - 	count is 4
+2026-01-14 18:52:05 [32minfo[39m: [general] - 	Record inserted for 0x52e04b7a3044e561ba2ed7bd3ba9ef69e6ec1af238146908e9688973460c84c3 with queue_id 40718efe-67ae-4fa7-b586-63be42c8828c
+2026-01-14 18:52:05 [32minfo[39m: [general] - 	tx sent 0x52e04b7a3044e561ba2ed7bd3ba9ef69e6ec1af238146908e9688973460c84c3 for polygon_amoy
+2026-01-14 18:53:01 [32minfo[39m: [general] - 	count is 5
+2026-01-14 18:53:05 [32minfo[39m: [general] - 	Record inserted for 0x7f9fd84fa5f47f790a36a91f94fe63b8c19be4a802b8db1b1608962ed55c5a33 with queue_id 38d1fa12-7443-4146-9dd4-6f165d9b1078
+2026-01-14 18:53:05 [32minfo[39m: [general] - 	tx sent 0x7f9fd84fa5f47f790a36a91f94fe63b8c19be4a802b8db1b1608962ed55c5a33 for polygon_amoy
+2026-01-14 18:54:01 [32minfo[39m: [general] - 	count is 6
+2026-01-14 18:54:05 [32minfo[39m: [general] - 	Record inserted for 0x560cbae66584c25b5bf02d54c208f0678ba361492052bc08ae7aa3a7e4b7e1dd with queue_id 8a9ac25f-46c1-4583-a2e1-b53a7dc5e996
+2026-01-14 18:54:05 [32minfo[39m: [general] - 	tx sent 0x560cbae66584c25b5bf02d54c208f0678ba361492052bc08ae7aa3a7e4b7e1dd for polygon_amoy
+2026-01-14 18:55:01 [32minfo[39m: [general] - 	count is 7
+2026-01-14 18:55:05 [32minfo[39m: [general] - 	Record inserted for 0xeef17f5fcbb5609a1f8a84e489f4dc6242a72dd7343525c1c66118c52fe092b5 with queue_id d5aab915-1ea8-4a68-a270-d792d57b5d73
+2026-01-14 18:55:05 [32minfo[39m: [general] - 	tx sent 0xeef17f5fcbb5609a1f8a84e489f4dc6242a72dd7343525c1c66118c52fe092b5 for polygon_amoy
+2026-01-14 18:56:01 [32minfo[39m: [general] - 	count is 8
+2026-01-14 18:56:05 [32minfo[39m: [general] - 	Record inserted for 0x0c40ccc3d0cf78e39c4cc09439fe78198931bff34c7fca0048df13ea4214f5f3 with queue_id eb9cb538-9736-4385-8f34-586288bb9655
+2026-01-14 18:56:05 [32minfo[39m: [general] - 	tx sent 0x0c40ccc3d0cf78e39c4cc09439fe78198931bff34c7fca0048df13ea4214f5f3 for polygon_amoy
+2026-01-14 18:57:01 [32minfo[39m: [general] - 	count is 9
+2026-01-14 18:57:05 [32minfo[39m: [general] - 	Record inserted for 0xe0576d248655bccf37ab2d382b17b59b774dacdb382d52ba9704d4f970671c9b with queue_id 64aa5bf0-e535-4ca0-b1e3-79ba1e5dc512
+2026-01-14 18:57:05 [32minfo[39m: [general] - 	tx sent 0xe0576d248655bccf37ab2d382b17b59b774dacdb382d52ba9704d4f970671c9b for polygon_amoy
+2026-01-14 18:58:01 [32minfo[39m: [general] - 	count is 10
+2026-01-14 18:58:05 [32minfo[39m: [general] - 	Record inserted for 0x612ef627420fdd41b37b78c09f4a3e878c040e08ffaf7fc462a8b9b872a31fb1 with queue_id 1d2c0f2f-2007-472d-8247-a4765d33f361
+2026-01-14 18:58:05 [32minfo[39m: [general] - 	tx sent 0x612ef627420fdd41b37b78c09f4a3e878c040e08ffaf7fc462a8b9b872a31fb1 for polygon_amoy
+2026-01-14 18:59:01 [32minfo[39m: [general] - 	count is 11
+2026-01-14 18:59:05 [32minfo[39m: [general] - 	Record inserted for 0x9f54bc1250d37dd54e37000966204ecaac8e98a3aa4ece48e078ad7b4931565c with queue_id 0cfdbb61-d395-4865-b870-c4d6a1364ebb
+2026-01-14 18:59:05 [32minfo[39m: [general] - 	tx sent 0x9f54bc1250d37dd54e37000966204ecaac8e98a3aa4ece48e078ad7b4931565c for polygon_amoy
+2026-01-14 19:00:01 [32minfo[39m: [general] - 	count is 12
+2026-01-14 19:00:05 [32minfo[39m: [general] - 	Record inserted for 0x96138e3b1192fd5d9f66eb363219bc8b75ac209fd257b53350dd91442967e676 with queue_id e216735b-b87e-4930-a262-0b7fc4692c4a
+2026-01-14 19:00:05 [32minfo[39m: [general] - 	tx sent 0x96138e3b1192fd5d9f66eb363219bc8b75ac209fd257b53350dd91442967e676 for polygon_amoy
+2026-01-14 19:01:01 [32minfo[39m: [general] - 	count is 13
+2026-01-14 19:01:05 [32minfo[39m: [general] - 	Record inserted for 0x7a1d68bab64e6a186d9e34dc6be9b92ab2f12ac39c756eb8e27b2717e70cc64d with queue_id d3bd19b5-7f63-4314-8250-f872afe18ee5
+2026-01-14 19:01:05 [32minfo[39m: [general] - 	tx sent 0x7a1d68bab64e6a186d9e34dc6be9b92ab2f12ac39c756eb8e27b2717e70cc64d for polygon_amoy
+2026-01-14 19:02:01 [32minfo[39m: [general] - 	count is 14
+2026-01-14 19:02:05 [32minfo[39m: [general] - 	Record inserted for 0x25edaa0ea748dcf6f2577f9d3e911f64bfe7a18f312f2adf03d642ef142da796 with queue_id b7265f12-c734-45ff-8aff-c258fcf504b6
+2026-01-14 19:02:05 [32minfo[39m: [general] - 	tx sent 0x25edaa0ea748dcf6f2577f9d3e911f64bfe7a18f312f2adf03d642ef142da796 for polygon_amoy
+2026-01-14 19:03:01 [32minfo[39m: [general] - 	count is 15
+2026-01-14 19:03:05 [32minfo[39m: [general] - 	Record inserted for 0xc99e41e76c085e7ec9177da83a5b3bd3f7722477644f11b6a8477e88662039eb with queue_id 0541304c-3f96-487b-8a72-986117799cf5
+2026-01-14 19:03:05 [32minfo[39m: [general] - 	tx sent 0xc99e41e76c085e7ec9177da83a5b3bd3f7722477644f11b6a8477e88662039eb for polygon_amoy
+2026-01-14 19:04:01 [32minfo[39m: [general] - 	count is 16
+2026-01-14 19:04:05 [32minfo[39m: [general] - 	Record inserted for 0x060f65f53c9e575a994a9fdefde0c319912a1e06394fb285c12d20b79a6892ad with queue_id 34898b95-a3d6-49c5-8120-52f95ac4602a
+2026-01-14 19:04:05 [32minfo[39m: [general] - 	tx sent 0x060f65f53c9e575a994a9fdefde0c319912a1e06394fb285c12d20b79a6892ad for polygon_amoy
+2026-01-14 19:05:01 [32minfo[39m: [general] - 	count is 17
+2026-01-14 19:05:05 [32minfo[39m: [general] - 	Record inserted for 0x087469dd8b21bcb2f027996e6f496636765681da6ffc8b00aab60c12385a27b7 with queue_id 5d641818-a48c-40ef-929b-ea2661b806f4
+2026-01-14 19:05:05 [32minfo[39m: [general] - 	tx sent 0x087469dd8b21bcb2f027996e6f496636765681da6ffc8b00aab60c12385a27b7 for polygon_amoy
+2026-01-14 19:06:01 [32minfo[39m: [general] - 	count is 18
+2026-01-14 19:06:05 [32minfo[39m: [general] - 	Record inserted for 0xca0db83afcbae2db8e68f3c6a027bcb0d648ca0273c4d75a6e6a917cfd096e54 with queue_id 6170cb2d-ccca-4189-b775-3e787dcc995d
+2026-01-14 19:06:05 [32minfo[39m: [general] - 	tx sent 0xca0db83afcbae2db8e68f3c6a027bcb0d648ca0273c4d75a6e6a917cfd096e54 for polygon_amoy
+2026-01-14 19:07:01 [32minfo[39m: [general] - 	count is 19
+2026-01-14 19:07:05 [32minfo[39m: [general] - 	Record inserted for 0x5abb35c8b71739512cad55838ff80f5af4f2bf559e9f056305492da25b5c599c with queue_id 7bd0f4b7-90ba-4851-a6f9-f1370f4fab07
+2026-01-14 19:07:05 [32minfo[39m: [general] - 	tx sent 0x5abb35c8b71739512cad55838ff80f5af4f2bf559e9f056305492da25b5c599c for polygon_amoy
+2026-01-14 19:08:01 [32minfo[39m: [general] - 	count is 20
+2026-01-14 19:08:05 [32minfo[39m: [general] - 	Record inserted for 0x978075fbc7b982f7456d18a5a35447b2a1d0892d31a3ba019750ec12d92dfda7 with queue_id c32c0381-0293-4297-9a3b-8fa1142dfea7
+2026-01-14 19:08:05 [32minfo[39m: [general] - 	tx sent 0x978075fbc7b982f7456d18a5a35447b2a1d0892d31a3ba019750ec12d92dfda7 for polygon_amoy
+2026-01-14 19:09:01 [32minfo[39m: [general] - 	count is 21
+2026-01-14 19:09:05 [32minfo[39m: [general] - 	Record inserted for 0xdd69230dd851081b8eed57318155224726a1f9e2f3ef084a9ba73387eccf1425 with queue_id 2fb3bb7a-481c-4468-acf5-2edffc64ec3b
+2026-01-14 19:09:05 [32minfo[39m: [general] - 	tx sent 0xdd69230dd851081b8eed57318155224726a1f9e2f3ef084a9ba73387eccf1425 for polygon_amoy
+2026-01-14 19:10:01 [32minfo[39m: [general] - 	count is 22
+2026-01-14 19:10:05 [32minfo[39m: [general] - 	Record inserted for 0x0b2507f873e504dcf15d21d465d1d9b259c355102c6af3794ceccf99d2db8cda with queue_id f7c1c836-d8ba-46de-a415-e55f8538fbfb
+2026-01-14 19:10:05 [32minfo[39m: [general] - 	tx sent 0x0b2507f873e504dcf15d21d465d1d9b259c355102c6af3794ceccf99d2db8cda for polygon_amoy
+2026-01-14 19:11:01 [32minfo[39m: [general] - 	count is 23
+2026-01-14 19:11:05 [32minfo[39m: [general] - 	Record inserted for 0x1ea0ca8d2108e8c3bba059070830a0e04be05139da760cc97fa2f741560df907 with queue_id a6078a48-8f4a-40d9-b206-8cb9c8e93c62
+2026-01-14 19:11:05 [32minfo[39m: [general] - 	tx sent 0x1ea0ca8d2108e8c3bba059070830a0e04be05139da760cc97fa2f741560df907 for polygon_amoy
+2026-01-14 19:12:01 [32minfo[39m: [general] - 	count is 24
+2026-01-14 19:12:05 [32minfo[39m: [general] - 	Record inserted for 0x30f1f5b1b5eb0793876a0ff9a0b4636b318eeb134f393605bb653b6fe332bbb0 with queue_id 844b8b8c-827b-4513-accb-08969cb248eb
+2026-01-14 19:12:05 [32minfo[39m: [general] - 	tx sent 0x30f1f5b1b5eb0793876a0ff9a0b4636b318eeb134f393605bb653b6fe332bbb0 for polygon_amoy
+2026-01-14 19:13:01 [32minfo[39m: [general] - 	count is 25
+2026-01-14 19:13:05 [32minfo[39m: [general] - 	Record inserted for 0x30672ec25ebdabeba91fdbaddeeab518ec685ac65afc8d2e8589ade0ed5f8e1d with queue_id b30f41fc-c0da-4c1d-bd97-92c3c34a1071
+2026-01-14 19:13:05 [32minfo[39m: [general] - 	tx sent 0x30672ec25ebdabeba91fdbaddeeab518ec685ac65afc8d2e8589ade0ed5f8e1d for polygon_amoy
+2026-01-14 19:14:01 [32minfo[39m: [general] - 	count is 26
+2026-01-14 19:14:05 [32minfo[39m: [general] - 	Record inserted for 0x8237c34c1566a30135b8bbe44825c82a5e5a0d616fb180f89ecb90b6bfe8267b with queue_id e0150392-b536-464e-b73c-5006b51474eb
+2026-01-14 19:14:05 [32minfo[39m: [general] - 	tx sent 0x8237c34c1566a30135b8bbe44825c82a5e5a0d616fb180f89ecb90b6bfe8267b for polygon_amoy
+2026-01-14 19:15:01 [32minfo[39m: [general] - 	count is 27
+2026-01-14 19:15:05 [32minfo[39m: [general] - 	Record inserted for 0x30ee222a0c9bde45490b86127b2a6c229754c7274a652c28e98c8a790f40759b with queue_id 960b4788-16c0-4ae9-bd92-6388579ee60e
+2026-01-14 19:15:05 [32minfo[39m: [general] - 	tx sent 0x30ee222a0c9bde45490b86127b2a6c229754c7274a652c28e98c8a790f40759b for polygon_amoy
+2026-01-14 19:16:01 [32minfo[39m: [general] - 	count is 28
+2026-01-14 19:16:05 [32minfo[39m: [general] - 	Record inserted for 0xa286e9f11e61fcbb18605244216751142ec6d5855e79948106c4929498843127 with queue_id 710f4daf-28e2-414d-8e02-a5343034dd85
+2026-01-14 19:16:05 [32minfo[39m: [general] - 	tx sent 0xa286e9f11e61fcbb18605244216751142ec6d5855e79948106c4929498843127 for polygon_amoy
+2026-01-14 19:17:01 [32minfo[39m: [general] - 	count is 29
+2026-01-14 19:17:05 [32minfo[39m: [general] - 	Record inserted for 0x34d08b79a7dcec2a7293471f65e24269be76da3b3329730fa1df6ada837ca777 with queue_id ad7ab34c-6501-4b7e-a1d9-3e7953759914
+2026-01-14 19:17:05 [32minfo[39m: [general] - 	tx sent 0x34d08b79a7dcec2a7293471f65e24269be76da3b3329730fa1df6ada837ca777 for polygon_amoy
+2026-01-14 19:18:02 [32minfo[39m: [general] - 	count is 30
+2026-01-14 19:18:05 [32minfo[39m: [general] - 	Record inserted for 0xbad07e06ad07adb0b48c83db6f1cee185b180f8a68297398d88df50f77464580 with queue_id 57daf0d9-aac1-4744-8cba-30241691016c
+2026-01-14 19:18:05 [32minfo[39m: [general] - 	tx sent 0xbad07e06ad07adb0b48c83db6f1cee185b180f8a68297398d88df50f77464580 for polygon_amoy
+2026-01-14 19:19:01 [32minfo[39m: [general] - 	count is 31
+2026-01-14 19:19:05 [32minfo[39m: [general] - 	Record inserted for 0xc454497e6de803dc2ad1a5ecf7e18c9555e8de221ecc8c139b2a5767231212e9 with queue_id f2b3cf1e-7016-44a0-a8d7-c980b3d45d74
+2026-01-14 19:19:05 [32minfo[39m: [general] - 	tx sent 0xc454497e6de803dc2ad1a5ecf7e18c9555e8de221ecc8c139b2a5767231212e9 for polygon_amoy
+2026-01-14 19:20:01 [32minfo[39m: [general] - 	count is 32
+2026-01-14 19:20:05 [32minfo[39m: [general] - 	Record inserted for 0x9d1aeb50c1da5a2db5d4e1e54fec6763c96e8354cd72e51a3b200039c31e0892 with queue_id a965934b-4475-4243-8199-1f24cfdb7567
+2026-01-14 19:20:05 [32minfo[39m: [general] - 	tx sent 0x9d1aeb50c1da5a2db5d4e1e54fec6763c96e8354cd72e51a3b200039c31e0892 for polygon_amoy
+2026-01-14 19:21:02 [32minfo[39m: [general] - 	count is 33
+2026-01-14 19:21:05 [32minfo[39m: [general] - 	Record inserted for 0x274654f3e9cbe74963a0b141495cc6e1013cccfbc414d87d93ee2ec95f18c322 with queue_id 508b016f-3abc-445c-811c-73e3d38a72bc
+2026-01-14 19:21:05 [32minfo[39m: [general] - 	tx sent 0x274654f3e9cbe74963a0b141495cc6e1013cccfbc414d87d93ee2ec95f18c322 for polygon_amoy
+2026-01-14 19:22:01 [32minfo[39m: [general] - 	count is 34
+2026-01-14 19:22:05 [32minfo[39m: [general] - 	Record inserted for 0xe15dd5190fd10c7581256be7e321df86355198690dfefc24690ba099dca425f2 with queue_id 05591884-6c6a-4b13-bf64-ecc216309b41
+2026-01-14 19:22:05 [32minfo[39m: [general] - 	tx sent 0xe15dd5190fd10c7581256be7e321df86355198690dfefc24690ba099dca425f2 for polygon_amoy
+2026-01-14 19:23:01 [32minfo[39m: [general] - 	count is 35
+2026-01-14 19:23:05 [32minfo[39m: [general] - 	Record inserted for 0x0d21a42ea5416cd48af28363d090de6048473e769e8ec35a18d2e4f969ac97bf with queue_id f8515110-7e66-4c4d-b9d8-59feece9655c
+2026-01-14 19:23:05 [32minfo[39m: [general] - 	tx sent 0x0d21a42ea5416cd48af28363d090de6048473e769e8ec35a18d2e4f969ac97bf for polygon_amoy
+2026-01-14 19:24:01 [32minfo[39m: [general] - 	count is 36
+2026-01-14 19:24:05 [32minfo[39m: [general] - 	Record inserted for 0x2737ad90c67677fb88d9f50436ec78f0afa993478c7791604300e217ff5189b3 with queue_id 46ec1d95-933d-4b15-8d1c-931d84711273
+2026-01-14 19:24:05 [32minfo[39m: [general] - 	tx sent 0x2737ad90c67677fb88d9f50436ec78f0afa993478c7791604300e217ff5189b3 for polygon_amoy
+2026-01-14 19:25:01 [32minfo[39m: [general] - 	count is 37
+2026-01-14 19:25:05 [32minfo[39m: [general] - 	Record inserted for 0x688d0ad759d0f96364ac02e498275049d6a84f53c16f4ac89f118d18cdc724ef with queue_id f4828b60-91ac-4114-a138-89d1670cb129
+2026-01-14 19:25:05 [32minfo[39m: [general] - 	tx sent 0x688d0ad759d0f96364ac02e498275049d6a84f53c16f4ac89f118d18cdc724ef for polygon_amoy
+2026-01-14 19:26:01 [32minfo[39m: [general] - 	count is 38
+2026-01-14 19:26:05 [32minfo[39m: [general] - 	Record inserted for 0x661659a02451b8ee9de2e45083a7fd0641d1d279849cced4db619116e75eaf3b with queue_id 6e595122-5491-4d61-920b-29dd972ecdb9
+2026-01-14 19:26:05 [32minfo[39m: [general] - 	tx sent 0x661659a02451b8ee9de2e45083a7fd0641d1d279849cced4db619116e75eaf3b for polygon_amoy
+2026-01-14 19:27:02 [32minfo[39m: [general] - 	count is 39
+2026-01-14 19:27:05 [32minfo[39m: [general] - 	Record inserted for 0xff6fa5409c90720bc041598e7d8ff7ffab6bd738d233cae0bc84701b27f5f1d6 with queue_id ace33410-cc1f-4a82-ac35-10e7ba1e62cf
+2026-01-14 19:27:05 [32minfo[39m: [general] - 	tx sent 0xff6fa5409c90720bc041598e7d8ff7ffab6bd738d233cae0bc84701b27f5f1d6 for polygon_amoy
+2026-01-14 19:28:02 [32minfo[39m: [general] - 	count is 40
+2026-01-14 19:28:05 [32minfo[39m: [general] - 	Record inserted for 0xb0ea6b5dc65d1b5479f2a6eb739156150bec3c4d9833f66fc660b1123a69c44f with queue_id eba3f1ba-589e-4e70-8a68-4d89c6cf83a8
+2026-01-14 19:28:05 [32minfo[39m: [general] - 	tx sent 0xb0ea6b5dc65d1b5479f2a6eb739156150bec3c4d9833f66fc660b1123a69c44f for polygon_amoy
+2026-01-14 19:29:02 [32minfo[39m: [general] - 	count is 41
+2026-01-14 19:29:05 [32minfo[39m: [general] - 	Record inserted for 0xac3d3cb6252b3d4cfa5610d1c2d76f00275a3c2868e01550626f6f09c4ef7c29 with queue_id 9431da57-51d0-44b6-8ea9-4e37ca6fd828
+2026-01-14 19:29:05 [32minfo[39m: [general] - 	tx sent 0xac3d3cb6252b3d4cfa5610d1c2d76f00275a3c2868e01550626f6f09c4ef7c29 for polygon_amoy
+2026-01-14 19:30:01 [32minfo[39m: [general] - 	count is 42
+2026-01-14 19:30:05 [32minfo[39m: [general] - 	Record inserted for 0x7e20a9e5975b641d6925f007108472ec3ae29a0f95cc790369df376ec5fa73cc with queue_id 82393c3e-55d9-4560-a970-0aa294a155ef
+2026-01-14 19:30:05 [32minfo[39m: [general] - 	tx sent 0x7e20a9e5975b641d6925f007108472ec3ae29a0f95cc790369df376ec5fa73cc for polygon_amoy
+2026-01-14 19:31:01 [32minfo[39m: [general] - 	count is 43
+2026-01-14 19:31:05 [32minfo[39m: [general] - 	Record inserted for 0x84152141cb44a4805a4e0ddcf9852290fc1fa4749639898af6a49ea565ee92b9 with queue_id c744ae87-50fc-4145-80b7-f79e8a4c5eb1
+2026-01-14 19:31:05 [32minfo[39m: [general] - 	tx sent 0x84152141cb44a4805a4e0ddcf9852290fc1fa4749639898af6a49ea565ee92b9 for polygon_amoy
+2026-01-14 19:32:01 [32minfo[39m: [general] - 	count is 44
+2026-01-14 19:32:05 [32minfo[39m: [general] - 	Record inserted for 0x925140f90d7cb9a9936611c61e425e2b8af9057029ddb2282c8c06e58ba9ca7f with queue_id 72133bea-c832-4958-8b35-7187531d28c2
+2026-01-14 19:32:05 [32minfo[39m: [general] - 	tx sent 0x925140f90d7cb9a9936611c61e425e2b8af9057029ddb2282c8c06e58ba9ca7f for polygon_amoy
+2026-01-14 19:33:01 [32minfo[39m: [general] - 	count is 45
+2026-01-14 19:33:05 [32minfo[39m: [general] - 	Record inserted for 0xbea854a4601280a86968e800dbb7071e266438d527bf6a73e12a1670aa53e92a with queue_id 4deafe4c-4466-4488-ac7a-7f536f52b128
+2026-01-14 19:33:05 [32minfo[39m: [general] - 	tx sent 0xbea854a4601280a86968e800dbb7071e266438d527bf6a73e12a1670aa53e92a for polygon_amoy
+2026-01-14 19:34:02 [32minfo[39m: [general] - 	count is 46
+2026-01-14 19:34:05 [32minfo[39m: [general] - 	Record inserted for 0x642ebfdbfc51f50eb393fa21d37801a98b19f03a2f2fc998f327c3ffc91fdeb8 with queue_id 86b89c86-c442-4367-b4d8-85db46b641c3
+2026-01-14 19:34:05 [32minfo[39m: [general] - 	tx sent 0x642ebfdbfc51f50eb393fa21d37801a98b19f03a2f2fc998f327c3ffc91fdeb8 for polygon_amoy
+2026-01-14 19:35:02 [32minfo[39m: [general] - 	count is 47
+2026-01-14 19:35:05 [32minfo[39m: [general] - 	Record inserted for 0x89d53697f77724ae559d85653355b740082cca3bd1c8c2a4144a821496a2b379 with queue_id 43eb8e28-6d42-44f0-a501-0e5544278413
+2026-01-14 19:35:05 [32minfo[39m: [general] - 	tx sent 0x89d53697f77724ae559d85653355b740082cca3bd1c8c2a4144a821496a2b379 for polygon_amoy
+2026-01-14 19:36:02 [32minfo[39m: [general] - 	count is 48
+2026-01-14 19:36:05 [32minfo[39m: [general] - 	Record inserted for 0x78f8cefdc4be79fcd5bd579f2db7abc4c7cdb09471a581a907f3aed8586aa17d with queue_id 54f894ef-d7b9-43fb-b0e4-9b1c0db5c0b4
+2026-01-14 19:36:05 [32minfo[39m: [general] - 	tx sent 0x78f8cefdc4be79fcd5bd579f2db7abc4c7cdb09471a581a907f3aed8586aa17d for polygon_amoy
+2026-01-14 19:37:02 [32minfo[39m: [general] - 	count is 49
+2026-01-14 19:37:05 [32minfo[39m: [general] - 	Record inserted for 0xe8375e78f085b019e7ae85b3bbfd8126e8649d428f238b122ae0510ec8391d15 with queue_id f5b137c8-d584-411d-b6b5-b14a186308e7
+2026-01-14 19:37:05 [32minfo[39m: [general] - 	tx sent 0xe8375e78f085b019e7ae85b3bbfd8126e8649d428f238b122ae0510ec8391d15 for polygon_amoy
+2026-01-14 19:38:02 [32minfo[39m: [general] - 	count is 50
+2026-01-14 19:38:05 [32minfo[39m: [general] - 	Record inserted for 0x488b2afa899b07ee224e1132b0a107dcdbe56b2bb4e4a33ec444e1fdb3c12fad with queue_id d48a974a-0e65-48f7-ba05-807f58609d77
+2026-01-14 19:38:05 [32minfo[39m: [general] - 	tx sent 0x488b2afa899b07ee224e1132b0a107dcdbe56b2bb4e4a33ec444e1fdb3c12fad for polygon_amoy
+2026-01-14 19:39:01 [32minfo[39m: [general] - 	count is 51
+2026-01-14 19:39:05 [32minfo[39m: [general] - 	Record inserted for 0x3553cbd78d5517b6c788ff170112fb0e52bbd1d21391d5dc816d54039332756d with queue_id e4498d51-da47-43bb-90bf-a5e02cdb2a3f
+2026-01-14 19:39:05 [32minfo[39m: [general] - 	tx sent 0x3553cbd78d5517b6c788ff170112fb0e52bbd1d21391d5dc816d54039332756d for polygon_amoy
+2026-01-14 19:40:01 [32minfo[39m: [general] - 	count is 52
+2026-01-14 19:40:05 [32minfo[39m: [general] - 	Record inserted for 0x4230dcea82c10461757730e14bfdc69bc00e967c57388e0813b6f01d48f708be with queue_id 07832506-698a-4fce-aad2-edbfe0f4a08d
+2026-01-14 19:40:05 [32minfo[39m: [general] - 	tx sent 0x4230dcea82c10461757730e14bfdc69bc00e967c57388e0813b6f01d48f708be for polygon_amoy
+2026-01-14 19:41:01 [32minfo[39m: [general] - 	count is 53
+2026-01-14 19:41:05 [32minfo[39m: [general] - 	Record inserted for 0x1f9aa2fabb75f32e448b241428a6ca97823c6a1c2a31cc91339ad9243bd68f4b with queue_id c1d4e436-a177-4931-ba07-3ca5394eae7b
+2026-01-14 19:41:05 [32minfo[39m: [general] - 	tx sent 0x1f9aa2fabb75f32e448b241428a6ca97823c6a1c2a31cc91339ad9243bd68f4b for polygon_amoy
+2026-01-14 19:42:02 [32minfo[39m: [general] - 	count is 54
+2026-01-14 19:42:05 [32minfo[39m: [general] - 	Record inserted for 0x6379215a7d89454fb4cf4b2c3490b616fb0c11d9383c93c953479cc71e374daf with queue_id 6619eac4-fb01-44c3-a510-c0b6ddd5a707
+2026-01-14 19:42:05 [32minfo[39m: [general] - 	tx sent 0x6379215a7d89454fb4cf4b2c3490b616fb0c11d9383c93c953479cc71e374daf for polygon_amoy
+2026-01-14 19:43:01 [32minfo[39m: [general] - 	count is 55
+2026-01-14 19:43:05 [32minfo[39m: [general] - 	Record inserted for 0x78bb0d6d19bc0ec051cf6dcb437d10b45aec40c6611024725b253a9f9a05b430 with queue_id b87bb960-e2a2-4af0-bb04-75321880569d
+2026-01-14 19:43:05 [32minfo[39m: [general] - 	tx sent 0x78bb0d6d19bc0ec051cf6dcb437d10b45aec40c6611024725b253a9f9a05b430 for polygon_amoy
+2026-01-14 19:44:01 [32minfo[39m: [general] - 	count is 56
+2026-01-14 19:44:05 [32minfo[39m: [general] - 	Record inserted for 0x9ab3a5bf86f5c249aed046ba551e04826d43b20743e6095abf393ddea31455b3 with queue_id 7bca1848-c157-4625-8a22-a9c5a93d492c
+2026-01-14 19:44:05 [32minfo[39m: [general] - 	tx sent 0x9ab3a5bf86f5c249aed046ba551e04826d43b20743e6095abf393ddea31455b3 for polygon_amoy
+2026-01-14 19:45:01 [32minfo[39m: [general] - 	count is 57
+2026-01-14 19:45:05 [32minfo[39m: [general] - 	Record inserted for 0x83a2689cbecaa0a2a2e330f958cbf65f0d0a3a9c7c0fe91b375d59f4af1744b0 with queue_id 82f255da-cd0e-4519-9bf6-3d7a4dbab3b5
+2026-01-14 19:45:05 [32minfo[39m: [general] - 	tx sent 0x83a2689cbecaa0a2a2e330f958cbf65f0d0a3a9c7c0fe91b375d59f4af1744b0 for polygon_amoy
+2026-01-14 19:46:02 [32minfo[39m: [general] - 	count is 58
+2026-01-14 19:46:05 [32minfo[39m: [general] - 	Record inserted for 0xdccced03a6d77f62a8ba0567efbb76bc1466c56ae102e999f65b9d8025282d23 with queue_id 430189aa-aa7d-4f90-a4c8-7e1a89f6838c
+2026-01-14 19:46:05 [32minfo[39m: [general] - 	tx sent 0xdccced03a6d77f62a8ba0567efbb76bc1466c56ae102e999f65b9d8025282d23 for polygon_amoy
+2026-01-14 19:47:02 [32minfo[39m: [general] - 	count is 59
+2026-01-14 19:47:05 [32minfo[39m: [general] - 	Record inserted for 0xa34fb7c39ea741755c51e9adb7163d21058bf8835843ca5b75a50b8877bbddfa with queue_id 433bba07-467b-4c6d-8bb1-465418127d8f
+2026-01-14 19:47:05 [32minfo[39m: [general] - 	tx sent 0xa34fb7c39ea741755c51e9adb7163d21058bf8835843ca5b75a50b8877bbddfa for polygon_amoy
+2026-01-14 19:48:01 [32minfo[39m: [general] - 	count is 60
+2026-01-14 19:48:05 [32minfo[39m: [general] - 	Record inserted for 0x12bb34feddeb0f781031e81baf3885cc041ba4013fba2c57a48c420db6a31171 with queue_id c8e6776e-f732-4f07-a950-176709e7f16a
+2026-01-14 19:48:05 [32minfo[39m: [general] - 	tx sent 0x12bb34feddeb0f781031e81baf3885cc041ba4013fba2c57a48c420db6a31171 for polygon_amoy
+2026-01-14 19:49:01 [32minfo[39m: [general] - 	count is 61
+2026-01-14 19:49:05 [32minfo[39m: [general] - 	Record inserted for 0xbceaa60145109414d8e0f04673d112e85ab12171c76114722e17d0e137c7b8f6 with queue_id 49d2db12-f0a5-490f-920a-bb8f82f5ac50
+2026-01-14 19:49:05 [32minfo[39m: [general] - 	tx sent 0xbceaa60145109414d8e0f04673d112e85ab12171c76114722e17d0e137c7b8f6 for polygon_amoy
+2026-01-14 19:50:01 [32minfo[39m: [general] - 	count is 62
+2026-01-14 19:50:05 [32minfo[39m: [general] - 	Record inserted for 0xff2de589e381c2ddc1acd6d182e6e8aa9fa6d33236571a1b6881d7c689a225a6 with queue_id f18de765-05f0-4556-b884-00b3e41d3ad4
+2026-01-14 19:50:05 [32minfo[39m: [general] - 	tx sent 0xff2de589e381c2ddc1acd6d182e6e8aa9fa6d33236571a1b6881d7c689a225a6 for polygon_amoy
+2026-01-14 19:51:02 [32minfo[39m: [general] - 	count is 63
+2026-01-14 19:51:05 [32minfo[39m: [general] - 	Record inserted for 0x0cac4e539c70230a823cae321792658c79e0292ac0bbc8550c49a9634f594df0 with queue_id 674f7863-ba29-4e74-a38e-a094fe13cb1a
+2026-01-14 19:51:05 [32minfo[39m: [general] - 	tx sent 0x0cac4e539c70230a823cae321792658c79e0292ac0bbc8550c49a9634f594df0 for polygon_amoy
+2026-01-14 19:52:02 [32minfo[39m: [general] - 	count is 64
+2026-01-14 19:52:05 [32minfo[39m: [general] - 	Record inserted for 0xef907202e829a238cc7140e15ceb76369ac4940234b2b04e8cb6e7d4498c9cb5 with queue_id 28d8afb9-1396-432f-ab43-4bf06f7cab74
+2026-01-14 19:52:05 [32minfo[39m: [general] - 	tx sent 0xef907202e829a238cc7140e15ceb76369ac4940234b2b04e8cb6e7d4498c9cb5 for polygon_amoy
+2026-01-14 19:53:01 [32minfo[39m: [general] - 	count is 65
+2026-01-14 19:53:05 [32minfo[39m: [general] - 	Record inserted for 0xa8d24dfd112b00a0c71f2d17acf7c7db164341e49dabc6b76f516b5d36689993 with queue_id c5aaaa80-d293-470d-8012-7069ed39068f
+2026-01-14 19:53:05 [32minfo[39m: [general] - 	tx sent 0xa8d24dfd112b00a0c71f2d17acf7c7db164341e49dabc6b76f516b5d36689993 for polygon_amoy
+2026-01-14 19:54:01 [32minfo[39m: [general] - 	count is 66
+2026-01-14 19:54:05 [32minfo[39m: [general] - 	Record inserted for 0xfb95763cf3705afb3ab6ef441b291bd3fefc293a95978b168bf09e00cbab5b7d with queue_id 58d1f515-be66-4af4-b732-0395f4fa3c1a
+2026-01-14 19:54:05 [32minfo[39m: [general] - 	tx sent 0xfb95763cf3705afb3ab6ef441b291bd3fefc293a95978b168bf09e00cbab5b7d for polygon_amoy
+2026-01-14 19:55:01 [32minfo[39m: [general] - 	count is 67
+2026-01-14 19:55:05 [32minfo[39m: [general] - 	Record inserted for 0xa4a13bc18921bc0282b1e3d3cee8958bf523eb538f0e5b50eb58c33209d205be with queue_id 16b88bf0-2e82-4e9c-85e7-cedc9ed4eca1
+2026-01-14 19:55:05 [32minfo[39m: [general] - 	tx sent 0xa4a13bc18921bc0282b1e3d3cee8958bf523eb538f0e5b50eb58c33209d205be for polygon_amoy
+2026-01-14 19:56:01 [32minfo[39m: [general] - 	count is 68
+2026-01-14 19:56:05 [32minfo[39m: [general] - 	Record inserted for 0x8e6d75ad1fdff6f9610dd0ed0afe55f5dd572cfcbb4044ab0815718b5c2f47d6 with queue_id 6826c561-b2ca-4f23-b148-8a841a4a483f
+2026-01-14 19:56:05 [32minfo[39m: [general] - 	tx sent 0x8e6d75ad1fdff6f9610dd0ed0afe55f5dd572cfcbb4044ab0815718b5c2f47d6 for polygon_amoy
+2026-01-14 19:57:01 [32minfo[39m: [general] - 	count is 69
+2026-01-14 19:57:05 [32minfo[39m: [general] - 	Record inserted for 0x6990afc3c80c886246419ff70082bea39bbe301445cb518676b71814509b6d6c with queue_id 6cc592db-5794-478c-92b7-990e5e7a9cf4
+2026-01-14 19:57:05 [32minfo[39m: [general] - 	tx sent 0x6990afc3c80c886246419ff70082bea39bbe301445cb518676b71814509b6d6c for polygon_amoy
+2026-01-14 19:58:01 [32minfo[39m: [general] - 	count is 70
+2026-01-14 19:58:05 [32minfo[39m: [general] - 	Record inserted for 0xe25f3d92b2fd4f1570a2c9e8a64e17b675a507704c43cbd39ce4644536c7ded3 with queue_id fbe1260d-24f7-42ad-a0a8-cf8a0eb3c687
+2026-01-14 19:58:05 [32minfo[39m: [general] - 	tx sent 0xe25f3d92b2fd4f1570a2c9e8a64e17b675a507704c43cbd39ce4644536c7ded3 for polygon_amoy
+2026-01-14 19:59:01 [32minfo[39m: [general] - 	count is 71
+2026-01-14 19:59:05 [32minfo[39m: [general] - 	Record inserted for 0xa2541e4d0fb0409702f66cc8189bb234d9cef3f7a123f384e1ccf3be34200f06 with queue_id 27ded249-1257-4acb-a528-15e41d7651cb
+2026-01-14 19:59:05 [32minfo[39m: [general] - 	tx sent 0xa2541e4d0fb0409702f66cc8189bb234d9cef3f7a123f384e1ccf3be34200f06 for polygon_amoy
+2026-01-14 20:00:01 [32minfo[39m: [general] - 	count is 72
+2026-01-14 20:00:05 [32minfo[39m: [general] - 	Record inserted for 0xdcb900051f30c7b7cc87b41bc2befc747e5a9a75f12eac4f84fe0fa1967bc988 with queue_id 609fb837-1f56-47b4-8107-ba786ce4a663
+2026-01-14 20:00:05 [32minfo[39m: [general] - 	tx sent 0xdcb900051f30c7b7cc87b41bc2befc747e5a9a75f12eac4f84fe0fa1967bc988 for polygon_amoy
+2026-01-14 20:01:01 [32minfo[39m: [general] - 	count is 73
+2026-01-14 20:01:05 [32minfo[39m: [general] - 	Record inserted for 0x24c78c817f8b4c58678cbbea953aac700ffd3335ba465d6364d5c65ccc55ab78 with queue_id 08594175-2fcd-45c1-9e04-9787506a28f7
+2026-01-14 20:01:05 [32minfo[39m: [general] - 	tx sent 0x24c78c817f8b4c58678cbbea953aac700ffd3335ba465d6364d5c65ccc55ab78 for polygon_amoy
+2026-01-14 20:02:01 [32minfo[39m: [general] - 	count is 74
+2026-01-14 20:02:05 [32minfo[39m: [general] - 	Record inserted for 0x4ca818f7912428d0d40e7a5391ed90f1dd135f9413f6ef24de68d84a6d2ab5a1 with queue_id 8534f54c-38fe-46ec-b5a6-33658257733e
+2026-01-14 20:02:05 [32minfo[39m: [general] - 	tx sent 0x4ca818f7912428d0d40e7a5391ed90f1dd135f9413f6ef24de68d84a6d2ab5a1 for polygon_amoy
+2026-01-14 20:03:01 [32minfo[39m: [general] - 	count is 75
+2026-01-14 20:03:05 [32minfo[39m: [general] - 	Record inserted for 0x242891bc0b5a596673219bd6d53e799501b94f9b2624045ee7ea39b593c5c1ba with queue_id a29d3ebc-4ac6-45aa-9d90-467b25d555d0
+2026-01-14 20:03:05 [32minfo[39m: [general] - 	tx sent 0x242891bc0b5a596673219bd6d53e799501b94f9b2624045ee7ea39b593c5c1ba for polygon_amoy
+2026-01-14 20:04:02 [32minfo[39m: [general] - 	count is 76
+2026-01-14 20:04:05 [32minfo[39m: [general] - 	Record inserted for 0x101e35eb2a13480a34c10bac3903b9d542a7cf52f4ebd1d85e93213bd40b1cd5 with queue_id 8dfedede-35c6-42c7-a5f8-bb3549b857f8
+2026-01-14 20:04:05 [32minfo[39m: [general] - 	tx sent 0x101e35eb2a13480a34c10bac3903b9d542a7cf52f4ebd1d85e93213bd40b1cd5 for polygon_amoy
+2026-01-14 20:05:01 [32minfo[39m: [general] - 	count is 77
+2026-01-14 20:05:05 [32minfo[39m: [general] - 	Record inserted for 0x9c03c47e9d348d6353df5ec4bd85c2368939ce97f769dd2c8951a68acfe9fcf7 with queue_id 66eb93a4-1dfc-4d90-a1e4-f7e0d4b8e4d7
+2026-01-14 20:05:05 [32minfo[39m: [general] - 	tx sent 0x9c03c47e9d348d6353df5ec4bd85c2368939ce97f769dd2c8951a68acfe9fcf7 for polygon_amoy
+2026-01-14 20:06:01 [32minfo[39m: [general] - 	count is 78
+2026-01-14 20:06:05 [32minfo[39m: [general] - 	Record inserted for 0x4a6440480f5b5eecf29f4b71c72cb51f94a956014493024b091b9fd11220f4bf with queue_id 9907a750-eb9f-4858-96f3-f7aaaa537b32
+2026-01-14 20:06:05 [32minfo[39m: [general] - 	tx sent 0x4a6440480f5b5eecf29f4b71c72cb51f94a956014493024b091b9fd11220f4bf for polygon_amoy
+2026-01-14 20:07:02 [32minfo[39m: [general] - 	count is 79
+2026-01-14 20:07:05 [32minfo[39m: [general] - 	Record inserted for 0x0701a68b6873b38c198d0bbd96413d874009517d15fe780c0ee94fa9fb5002ee with queue_id 9dbcaf68-bc40-481f-a77a-f0f5cc4c39af
+2026-01-14 20:07:05 [32minfo[39m: [general] - 	tx sent 0x0701a68b6873b38c198d0bbd96413d874009517d15fe780c0ee94fa9fb5002ee for polygon_amoy
+2026-01-14 20:08:02 [32minfo[39m: [general] - 	count is 80
+2026-01-14 20:08:05 [32minfo[39m: [general] - 	Record inserted for 0x6aa0ae5a3a7f7467b8dd23a2c8ed501cbc24da9cc211d380b634fbdc7ee98537 with queue_id 63b201de-3a8f-49a9-97bd-899178c0179c
+2026-01-14 20:08:05 [32minfo[39m: [general] - 	tx sent 0x6aa0ae5a3a7f7467b8dd23a2c8ed501cbc24da9cc211d380b634fbdc7ee98537 for polygon_amoy
+2026-01-14 20:09:02 [32minfo[39m: [general] - 	count is 81
+2026-01-14 20:09:05 [32minfo[39m: [general] - 	Record inserted for 0x9b41dbb8543aa7ce338ca7680262ee85f9419c7c5f3fae489c7ba598161524fb with queue_id ed28f870-28f6-4c1f-8d1b-5a5bc7df8620
+2026-01-14 20:09:05 [32minfo[39m: [general] - 	tx sent 0x9b41dbb8543aa7ce338ca7680262ee85f9419c7c5f3fae489c7ba598161524fb for polygon_amoy
+2026-01-14 20:10:01 [32minfo[39m: [general] - 	count is 82
+2026-01-14 20:10:05 [32minfo[39m: [general] - 	Record inserted for 0x7e7265e938387dd2edc885202caac69438f64e631aa68899ee2f12070b23d814 with queue_id e5e0b4dc-fd56-4df7-9c30-b4e7aab56ef9
+2026-01-14 20:10:05 [32minfo[39m: [general] - 	tx sent 0x7e7265e938387dd2edc885202caac69438f64e631aa68899ee2f12070b23d814 for polygon_amoy
+2026-01-14 20:11:01 [32minfo[39m: [general] - 	count is 83
+2026-01-14 20:11:05 [32minfo[39m: [general] - 	Record inserted for 0x326f3a50f07167a4066045871ef27c1d7bd23801a4df48374d6b889fac8146f2 with queue_id 76383475-6220-4009-a0ab-32b97f23c8aa
+2026-01-14 20:11:05 [32minfo[39m: [general] - 	tx sent 0x326f3a50f07167a4066045871ef27c1d7bd23801a4df48374d6b889fac8146f2 for polygon_amoy
+2026-01-14 20:12:02 [32minfo[39m: [general] - 	count is 84
+2026-01-14 20:12:05 [32minfo[39m: [general] - 	Record inserted for 0xb0bb185c5628d2c7acc1454b9d3925cb9a41657f21ab8407c61debb5ca60f589 with queue_id 1713f684-0319-4941-a48d-ddc39a9c148d
+2026-01-14 20:12:05 [32minfo[39m: [general] - 	tx sent 0xb0bb185c5628d2c7acc1454b9d3925cb9a41657f21ab8407c61debb5ca60f589 for polygon_amoy
+2026-01-14 20:13:02 [32minfo[39m: [general] - 	count is 85
+2026-01-14 20:13:05 [32minfo[39m: [general] - 	Record inserted for 0x67f49b4d1dcb7e4f1c462b0a053d33d800ecd06f1fd464f5ff849244d83beae6 with queue_id 376ca16c-2b8b-4810-bdee-32e60eba2148
+2026-01-14 20:13:05 [32minfo[39m: [general] - 	tx sent 0x67f49b4d1dcb7e4f1c462b0a053d33d800ecd06f1fd464f5ff849244d83beae6 for polygon_amoy
+2026-01-14 20:14:01 [32minfo[39m: [general] - 	count is 86
+2026-01-14 20:14:05 [32minfo[39m: [general] - 	Record inserted for 0x569c4cc790f975dbc922fe8c9766ab1dd8c1311367d1cbe466e7a7b09c2afec6 with queue_id bc2c7605-85d0-4504-af52-bf86e37ee71a
+2026-01-14 20:14:05 [32minfo[39m: [general] - 	tx sent 0x569c4cc790f975dbc922fe8c9766ab1dd8c1311367d1cbe466e7a7b09c2afec6 for polygon_amoy
+2026-01-14 20:15:01 [32minfo[39m: [general] - 	count is 87
+2026-01-14 20:15:05 [32minfo[39m: [general] - 	Record inserted for 0x5e54f8a530013b2f00f69259b5956a834e801e5f80325e4b5806a561e825cca0 with queue_id 05a27f41-3902-4db0-b360-0f5f3f25d97b
+2026-01-14 20:15:05 [32minfo[39m: [general] - 	tx sent 0x5e54f8a530013b2f00f69259b5956a834e801e5f80325e4b5806a561e825cca0 for polygon_amoy
+2026-01-14 20:16:01 [32minfo[39m: [general] - 	count is 88
+2026-01-14 20:16:05 [32minfo[39m: [general] - 	Record inserted for 0x0fe37c01b34d8595e4941887db1c1a8bdfcbf278fd826dc1d6250d9444ff45f6 with queue_id 83c03bda-7989-4f89-b596-f5e856e6ab4d
+2026-01-14 20:16:05 [32minfo[39m: [general] - 	tx sent 0x0fe37c01b34d8595e4941887db1c1a8bdfcbf278fd826dc1d6250d9444ff45f6 for polygon_amoy
+2026-01-14 20:17:02 [32minfo[39m: [general] - 	count is 89
+2026-01-14 20:17:05 [32minfo[39m: [general] - 	Record inserted for 0xe6316f5686781f334f90b9995f4dc95331445f648d24f72a8bf3979672437a8e with queue_id a93fe95c-cc07-4f66-be4f-c93e16ce29bd
+2026-01-14 20:17:05 [32minfo[39m: [general] - 	tx sent 0xe6316f5686781f334f90b9995f4dc95331445f648d24f72a8bf3979672437a8e for polygon_amoy
+2026-01-14 20:18:01 [32minfo[39m: [general] - 	count is 90
+2026-01-14 20:18:05 [32minfo[39m: [general] - 	Record inserted for 0xe38e3a1a42dd1afa14717dee72b4074302df454870dd835062bb32f4c1984528 with queue_id e74caeb2-12c2-474b-9f87-a084359722bd
+2026-01-14 20:18:05 [32minfo[39m: [general] - 	tx sent 0xe38e3a1a42dd1afa14717dee72b4074302df454870dd835062bb32f4c1984528 for polygon_amoy
+2026-01-14 20:19:02 [32minfo[39m: [general] - 	count is 91
+2026-01-14 20:19:05 [32minfo[39m: [general] - 	Record inserted for 0xcd0ca48a9bb0b1ded629ac0483d3f13afced6a9089ce29fc9960bdf6e6c3ddf7 with queue_id d292ff4a-6801-41f1-8019-3daf50f39a4a
+2026-01-14 20:19:05 [32minfo[39m: [general] - 	tx sent 0xcd0ca48a9bb0b1ded629ac0483d3f13afced6a9089ce29fc9960bdf6e6c3ddf7 for polygon_amoy
+2026-01-14 20:20:02 [32minfo[39m: [general] - 	count is 92
+2026-01-14 20:20:05 [32minfo[39m: [general] - 	Record inserted for 0x9cf9529d22f8c8b4a9c41217b6f7ee848ba417cc5381e0e2f0fd5b95987df1fc with queue_id 6d866717-820a-4099-a4d7-5b6017b2d2d6
+2026-01-14 20:20:05 [32minfo[39m: [general] - 	tx sent 0x9cf9529d22f8c8b4a9c41217b6f7ee848ba417cc5381e0e2f0fd5b95987df1fc for polygon_amoy
+2026-01-14 20:21:01 [32minfo[39m: [general] - 	count is 93
+2026-01-14 20:21:05 [32minfo[39m: [general] - 	Record inserted for 0xf096623421ac21e32ce8ef3625173d2427d87795a568714bd9acf95de42c77eb with queue_id 597dab31-0dc1-4554-afbc-c770af50d31b
+2026-01-14 20:21:05 [32minfo[39m: [general] - 	tx sent 0xf096623421ac21e32ce8ef3625173d2427d87795a568714bd9acf95de42c77eb for polygon_amoy
+2026-01-14 20:22:02 [32minfo[39m: [general] - 	count is 94
+2026-01-14 20:22:05 [32minfo[39m: [general] - 	Record inserted for 0x5906947692920b6734d1f38e03d5f44107f226435279457f5283ede1117552c9 with queue_id f2439fd9-b64d-4f8a-b87d-6ebd2c4bb2db
+2026-01-14 20:22:05 [32minfo[39m: [general] - 	tx sent 0x5906947692920b6734d1f38e03d5f44107f226435279457f5283ede1117552c9 for polygon_amoy
+2026-01-14 20:23:02 [32minfo[39m: [general] - 	count is 95
+2026-01-14 20:23:05 [32minfo[39m: [general] - 	Record inserted for 0x1247681bc9ae5127d96867fd67d60bad464c32d6e3a4b05de4c21e9ac1a3c78a with queue_id b1b8a533-b5a9-473f-9705-f76f55bc342d
+2026-01-14 20:23:05 [32minfo[39m: [general] - 	tx sent 0x1247681bc9ae5127d96867fd67d60bad464c32d6e3a4b05de4c21e9ac1a3c78a for polygon_amoy
+2026-01-14 20:24:02 [32minfo[39m: [general] - 	count is 96
+2026-01-14 20:24:05 [32minfo[39m: [general] - 	Record inserted for 0x711d359dd4f085135f5b5864f077734131e58660b65771c62ab3b8d4b847a7cf with queue_id 452bd34d-8622-4e7f-ab61-875c48eec724
+2026-01-14 20:24:05 [32minfo[39m: [general] - 	tx sent 0x711d359dd4f085135f5b5864f077734131e58660b65771c62ab3b8d4b847a7cf for polygon_amoy
+2026-01-14 20:25:02 [32minfo[39m: [general] - 	count is 97
+2026-01-14 20:25:05 [32minfo[39m: [general] - 	Record inserted for 0x0719027e026cbaa8ea7d6f21f7f8cd323e3a6655deb52cfd5bce0231a508f152 with queue_id b7f103d8-fedd-4752-bcb7-4a47ef0a271c
+2026-01-14 20:25:05 [32minfo[39m: [general] - 	tx sent 0x0719027e026cbaa8ea7d6f21f7f8cd323e3a6655deb52cfd5bce0231a508f152 for polygon_amoy
+2026-01-14 20:26:02 [32minfo[39m: [general] - 	count is 98
+2026-01-14 20:26:05 [32minfo[39m: [general] - 	Record inserted for 0x11c3f342071d34c46aa4482ff2d80dfb0fa1b5b5cb3dd83d16d9300dc8009fcc with queue_id d5c1d6af-aacd-4bce-9e75-3edb59a91fc2
+2026-01-14 20:26:05 [32minfo[39m: [general] - 	tx sent 0x11c3f342071d34c46aa4482ff2d80dfb0fa1b5b5cb3dd83d16d9300dc8009fcc for polygon_amoy
+2026-01-14 20:27:02 [32minfo[39m: [general] - 	count is 99
+2026-01-14 20:27:05 [32minfo[39m: [general] - 	Record inserted for 0xe92e009ce39242e7ec83febf0d3d0df617707e70719d4056c6897194755a4641 with queue_id 172e15dc-995d-4a08-aae6-78438516e55e
+2026-01-14 20:27:05 [32minfo[39m: [general] - 	tx sent 0xe92e009ce39242e7ec83febf0d3d0df617707e70719d4056c6897194755a4641 for polygon_amoy
+2026-01-14 20:28:02 [32minfo[39m: [general] - 	count is 100
+2026-01-14 20:28:05 [32minfo[39m: [general] - 	Record inserted for 0x0ac10da06d4f26b26e76b60dedb04a60264c763775cf15437aea90f6130ceead with queue_id b9e80f97-4188-4c02-bd29-d9a3d34cbad6
+2026-01-14 20:28:05 [32minfo[39m: [general] - 	tx sent 0x0ac10da06d4f26b26e76b60dedb04a60264c763775cf15437aea90f6130ceead for polygon_amoy
+2026-01-14 20:29:02 [32minfo[39m: [general] - 	count is 101
+2026-01-14 20:29:05 [32minfo[39m: [general] - 	Record inserted for 0x8b368132946c11547cfb66f2a238930cf1f0cd27c8858b4eb4388a20e8bb315f with queue_id d4b685d8-94f4-4b42-a6f9-0878a7bf68aa
+2026-01-14 20:29:05 [32minfo[39m: [general] - 	tx sent 0x8b368132946c11547cfb66f2a238930cf1f0cd27c8858b4eb4388a20e8bb315f for polygon_amoy
+2026-01-14 20:30:02 [32minfo[39m: [general] - 	count is 102
+2026-01-14 20:30:05 [32minfo[39m: [general] - 	Record inserted for 0xd3f4eadc4842c888d03c76d9301a99716c70b99ff61f66ca95df0464b8c897ee with queue_id 471a1b8e-f641-4bbb-b354-24749429ab58
+2026-01-14 20:30:05 [32minfo[39m: [general] - 	tx sent 0xd3f4eadc4842c888d03c76d9301a99716c70b99ff61f66ca95df0464b8c897ee for polygon_amoy
+2026-01-14 20:31:02 [32minfo[39m: [general] - 	count is 103
+2026-01-14 20:31:05 [32minfo[39m: [general] - 	Record inserted for 0x68ae3d9313a0442c8a65bc2b8bdbb73661a42393a72b4049a9754317b6c5e9b0 with queue_id 92a1672f-8984-4484-9579-fc795d64d8fc
+2026-01-14 20:31:05 [32minfo[39m: [general] - 	tx sent 0x68ae3d9313a0442c8a65bc2b8bdbb73661a42393a72b4049a9754317b6c5e9b0 for polygon_amoy
+2026-01-14 20:32:02 [32minfo[39m: [general] - 	count is 104
+2026-01-14 20:32:05 [32minfo[39m: [general] - 	Record inserted for 0xfb131f34213e286ee618a2f51cecc19768e3e93f311373762c42250f0efcdeda with queue_id b94db018-4bcc-4bf1-a2c4-25304d5dd392
+2026-01-14 20:32:05 [32minfo[39m: [general] - 	tx sent 0xfb131f34213e286ee618a2f51cecc19768e3e93f311373762c42250f0efcdeda for polygon_amoy
+2026-01-14 20:33:02 [32minfo[39m: [general] - 	count is 105
+2026-01-14 20:33:05 [32minfo[39m: [general] - 	Record inserted for 0xb0588ff0ede59d56dac7383d9534e6ec5565c8c630ec22b9a89845eb3e7c313d with queue_id 2242f0e6-da25-426d-8c91-2bfb417713c3
+2026-01-14 20:33:05 [32minfo[39m: [general] - 	tx sent 0xb0588ff0ede59d56dac7383d9534e6ec5565c8c630ec22b9a89845eb3e7c313d for polygon_amoy
+2026-01-14 20:34:02 [32minfo[39m: [general] - 	count is 106
+2026-01-14 20:34:05 [32minfo[39m: [general] - 	Record inserted for 0x370aca6e93c2589545caa0e8fe8d3620e35cf58bffd3c3778ee7d8d4f4131212 with queue_id 83d5cc64-34ff-44f8-918d-cf664c5eb9fb
+2026-01-14 20:34:05 [32minfo[39m: [general] - 	tx sent 0x370aca6e93c2589545caa0e8fe8d3620e35cf58bffd3c3778ee7d8d4f4131212 for polygon_amoy
+2026-01-14 20:35:02 [32minfo[39m: [general] - 	count is 107
+2026-01-14 20:35:05 [32minfo[39m: [general] - 	Record inserted for 0x58159966d11385d857a42ab96f46a331da61f2c8e0d0321c9bba3fb115762c5c with queue_id a5bb626c-3617-434d-bcac-55d2e4130a10
+2026-01-14 20:35:05 [32minfo[39m: [general] - 	tx sent 0x58159966d11385d857a42ab96f46a331da61f2c8e0d0321c9bba3fb115762c5c for polygon_amoy
+2026-01-14 20:36:02 [32minfo[39m: [general] - 	count is 108
+2026-01-14 20:36:05 [32minfo[39m: [general] - 	Record inserted for 0x922eccd9cf43e7a372d3bc6abe4d547ae4a28ab512e10dee1d32cb4c2c3e3aab with queue_id 07333644-6d87-43bf-ae2a-d7bdd6d94b55
+2026-01-14 20:36:05 [32minfo[39m: [general] - 	tx sent 0x922eccd9cf43e7a372d3bc6abe4d547ae4a28ab512e10dee1d32cb4c2c3e3aab for polygon_amoy
+2026-01-14 20:37:02 [32minfo[39m: [general] - 	count is 109
+2026-01-14 20:37:05 [32minfo[39m: [general] - 	Record inserted for 0xd6a4d47027e8271133ec0935505e177210921d7c2d238e07e0ef065a20f5109e with queue_id 28b9e934-a54d-4efd-8a57-102c537c4b64
+2026-01-14 20:37:05 [32minfo[39m: [general] - 	tx sent 0xd6a4d47027e8271133ec0935505e177210921d7c2d238e07e0ef065a20f5109e for polygon_amoy
+2026-01-14 20:38:02 [32minfo[39m: [general] - 	count is 110
+2026-01-14 20:38:05 [32minfo[39m: [general] - 	Record inserted for 0x200ba89cda9ebe6c927ca5d22d3687f9eb66f80a9b4835cdc0fec2faba1d83ef with queue_id 296230d3-d229-4573-9286-5103da7d15d6
+2026-01-14 20:38:05 [32minfo[39m: [general] - 	tx sent 0x200ba89cda9ebe6c927ca5d22d3687f9eb66f80a9b4835cdc0fec2faba1d83ef for polygon_amoy
+2026-01-14 20:39:02 [32minfo[39m: [general] - 	count is 111
+2026-01-14 20:39:05 [32minfo[39m: [general] - 	Record inserted for 0x48d8aa66b507c92e2b163b5d68494fb0a02f2ac88a6d87a98a955ba61eabec33 with queue_id 3ec3d931-8de3-445d-ae54-9d52720049fc
+2026-01-14 20:39:05 [32minfo[39m: [general] - 	tx sent 0x48d8aa66b507c92e2b163b5d68494fb0a02f2ac88a6d87a98a955ba61eabec33 for polygon_amoy
+2026-01-14 20:40:02 [32minfo[39m: [general] - 	count is 112
+2026-01-14 20:40:05 [32minfo[39m: [general] - 	Record inserted for 0xb793949748da936c2397379e9382e56221d1968b1de7bf56544f7f9fd4e8a9aa with queue_id 6a91c277-39e9-4df7-b0f9-673aee41bb34
+2026-01-14 20:40:05 [32minfo[39m: [general] - 	tx sent 0xb793949748da936c2397379e9382e56221d1968b1de7bf56544f7f9fd4e8a9aa for polygon_amoy
+2026-01-14 20:41:02 [32minfo[39m: [general] - 	count is 113
+2026-01-14 20:41:05 [32minfo[39m: [general] - 	Record inserted for 0x284e207307cb64d55675b570ae803615606c17cb8a4cba521ea0b32722dce09f with queue_id 380680dd-ec6d-4a2b-974c-578e906eaf36
+2026-01-14 20:41:05 [32minfo[39m: [general] - 	tx sent 0x284e207307cb64d55675b570ae803615606c17cb8a4cba521ea0b32722dce09f for polygon_amoy
+2026-01-14 20:42:02 [32minfo[39m: [general] - 	count is 114
+2026-01-14 20:42:05 [32minfo[39m: [general] - 	Record inserted for 0x339aad5553e973628ef49eaf52366e15223571bba541623f8077fd13be96c270 with queue_id d530707f-fc29-4a80-bfd0-13b571068561
+2026-01-14 20:42:05 [32minfo[39m: [general] - 	tx sent 0x339aad5553e973628ef49eaf52366e15223571bba541623f8077fd13be96c270 for polygon_amoy
+2026-01-14 20:43:02 [32minfo[39m: [general] - 	count is 115
+2026-01-14 20:43:05 [32minfo[39m: [general] - 	Record inserted for 0xa83d99dadf67a74630e219b4fbf91bf68d4048f0d5e264fb6d79bd11c5143969 with queue_id 873526b8-a866-4da4-a698-6a2c5ab18503
+2026-01-14 20:43:05 [32minfo[39m: [general] - 	tx sent 0xa83d99dadf67a74630e219b4fbf91bf68d4048f0d5e264fb6d79bd11c5143969 for polygon_amoy
+2026-01-14 20:44:02 [32minfo[39m: [general] - 	count is 116
+2026-01-14 20:44:05 [32minfo[39m: [general] - 	Record inserted for 0x84de08e17fe73c81905ccdbb9dfee01fa10a5587a5f07dd9083f47d1853038ba with queue_id 3fe6ad21-d5eb-4196-b39a-a4fdaa634c65
+2026-01-14 20:44:05 [32minfo[39m: [general] - 	tx sent 0x84de08e17fe73c81905ccdbb9dfee01fa10a5587a5f07dd9083f47d1853038ba for polygon_amoy
+2026-01-14 20:45:02 [32minfo[39m: [general] - 	count is 117
+2026-01-14 20:45:05 [32minfo[39m: [general] - 	Record inserted for 0x6ec760634adc9484c55602eef0740ffee295b7e13339c9c646d8898be526d819 with queue_id 464c6fc1-c62b-4993-a07a-31edcb38b788
+2026-01-14 20:45:05 [32minfo[39m: [general] - 	tx sent 0x6ec760634adc9484c55602eef0740ffee295b7e13339c9c646d8898be526d819 for polygon_amoy
+2026-01-14 20:46:02 [32minfo[39m: [general] - 	count is 118
+2026-01-14 20:46:05 [32minfo[39m: [general] - 	Record inserted for 0xe3a23b773ed6c77dda59a4e5093b624afb5ea6f4dcab7a817d0f0aa410fb0bd3 with queue_id deb4ff74-8614-43cb-aa6b-f090340cc9e2
+2026-01-14 20:46:05 [32minfo[39m: [general] - 	tx sent 0xe3a23b773ed6c77dda59a4e5093b624afb5ea6f4dcab7a817d0f0aa410fb0bd3 for polygon_amoy
+2026-01-14 20:47:02 [32minfo[39m: [general] - 	count is 119
+2026-01-14 20:47:05 [32minfo[39m: [general] - 	Record inserted for 0xca03fd7900357eaca967e17c354c59f8412708b0395ab3b23e6a8a020ef45a7a with queue_id 62d138fe-c193-4638-9431-e8b91b02c41c
+2026-01-14 20:47:05 [32minfo[39m: [general] - 	tx sent 0xca03fd7900357eaca967e17c354c59f8412708b0395ab3b23e6a8a020ef45a7a for polygon_amoy
+2026-01-14 20:48:02 [32minfo[39m: [general] - 	count is 120
+2026-01-14 20:48:05 [32minfo[39m: [general] - 	Record inserted for 0xd426d5dedff01190dffda767e018d3fea4c620ae3e76aaf8c55e5aa95b7b9202 with queue_id 9dfdd8ea-c274-4401-9770-9b4f5ebb5007
+2026-01-14 20:48:05 [32minfo[39m: [general] - 	tx sent 0xd426d5dedff01190dffda767e018d3fea4c620ae3e76aaf8c55e5aa95b7b9202 for polygon_amoy
+2026-01-14 20:49:02 [32minfo[39m: [general] - 	count is 121
+2026-01-14 20:49:05 [32minfo[39m: [general] - 	Record inserted for 0x83ffd3e1fa9e23ee8a985d9f6e8edab71e9b4099f2a42184dc9188bcc151838a with queue_id da7e9cec-6ba1-467c-bcd2-958df0e568be
+2026-01-14 20:49:05 [32minfo[39m: [general] - 	tx sent 0x83ffd3e1fa9e23ee8a985d9f6e8edab71e9b4099f2a42184dc9188bcc151838a for polygon_amoy
+2026-01-14 20:50:02 [32minfo[39m: [general] - 	count is 122
+2026-01-14 20:50:05 [32minfo[39m: [general] - 	Record inserted for 0x94285cea63140205f51748792e4b67d8fed26e02096fbc8b357c72fe613bd899 with queue_id 86330647-f91b-4324-af58-4eee01f7883a
+2026-01-14 20:50:05 [32minfo[39m: [general] - 	tx sent 0x94285cea63140205f51748792e4b67d8fed26e02096fbc8b357c72fe613bd899 for polygon_amoy
+2026-01-14 20:51:02 [32minfo[39m: [general] - 	count is 123
+2026-01-14 20:51:05 [32minfo[39m: [general] - 	Record inserted for 0x785a1e3c0edc13235de7f1d72015e852cc2e2d3d7a11291dd952338304cad7cf with queue_id 4c81aec0-e22c-4d9f-924a-72632b298bd6
+2026-01-14 20:51:05 [32minfo[39m: [general] - 	tx sent 0x785a1e3c0edc13235de7f1d72015e852cc2e2d3d7a11291dd952338304cad7cf for polygon_amoy
+2026-01-14 20:52:02 [32minfo[39m: [general] - 	count is 124
+2026-01-14 20:52:05 [32minfo[39m: [general] - 	Record inserted for 0xd96d609974750e4644fde2f792b363d38f4e33cdd3c5e67bc1043ee27562f603 with queue_id 7d27aea0-1023-4972-b609-14c02376fe3f
+2026-01-14 20:52:05 [32minfo[39m: [general] - 	tx sent 0xd96d609974750e4644fde2f792b363d38f4e33cdd3c5e67bc1043ee27562f603 for polygon_amoy
+2026-01-14 20:53:02 [32minfo[39m: [general] - 	count is 125
+2026-01-14 20:53:05 [32minfo[39m: [general] - 	Record inserted for 0x395ddbbe9861dc99ce19c5d094d812d5fc4f237146e7c5c929545b81a9d05839 with queue_id a14af2df-577e-45ac-95cd-2506fd3e8724
+2026-01-14 20:53:05 [32minfo[39m: [general] - 	tx sent 0x395ddbbe9861dc99ce19c5d094d812d5fc4f237146e7c5c929545b81a9d05839 for polygon_amoy
+2026-01-14 20:54:02 [32minfo[39m: [general] - 	count is 126
+2026-01-14 20:54:05 [32minfo[39m: [general] - 	Record inserted for 0x576be842607b054179b8ed8a87de948ca4e090a7f9395e6b76089aeaab50d3b0 with queue_id 6fd83815-cf8b-4475-988d-4b0d7f5c4aa7
+2026-01-14 20:54:05 [32minfo[39m: [general] - 	tx sent 0x576be842607b054179b8ed8a87de948ca4e090a7f9395e6b76089aeaab50d3b0 for polygon_amoy
+2026-01-14 20:55:02 [32minfo[39m: [general] - 	count is 127
+2026-01-14 20:55:05 [32minfo[39m: [general] - 	Record inserted for 0xb5931214a739ef04515a49ed7fc3c29ce01c4c190eb6fd36e76ee74f37c74edc with queue_id 1e3ce72a-5d5e-4d64-a6ca-5c075a055074
+2026-01-14 20:55:05 [32minfo[39m: [general] - 	tx sent 0xb5931214a739ef04515a49ed7fc3c29ce01c4c190eb6fd36e76ee74f37c74edc for polygon_amoy
+2026-01-14 20:56:02 [32minfo[39m: [general] - 	count is 128
+2026-01-14 20:56:05 [32minfo[39m: [general] - 	Record inserted for 0x45072ee7b57a1071ee964c3cdbe95c93093629dd3cfd6fb3a15ed561b4305d1d with queue_id a9a02bf1-37e2-499b-a46c-4ec2f6855fb9
+2026-01-14 20:56:05 [32minfo[39m: [general] - 	tx sent 0x45072ee7b57a1071ee964c3cdbe95c93093629dd3cfd6fb3a15ed561b4305d1d for polygon_amoy
+2026-01-14 20:57:02 [32minfo[39m: [general] - 	count is 129
+2026-01-14 20:57:05 [32minfo[39m: [general] - 	Record inserted for 0x9838c163cb50928ec10a55dd46c7bd2af4b4db1bce804f71e15c67c6011f3f8a with queue_id 28e3fc75-5898-4421-85cc-30354266ebb5
+2026-01-14 20:57:05 [32minfo[39m: [general] - 	tx sent 0x9838c163cb50928ec10a55dd46c7bd2af4b4db1bce804f71e15c67c6011f3f8a for polygon_amoy
+2026-01-14 20:58:02 [32minfo[39m: [general] - 	count is 130
+2026-01-14 20:58:05 [32minfo[39m: [general] - 	Record inserted for 0x25f515c2894ce815760164009842587e54497f20b7542255cd92a295be097598 with queue_id 58c97451-79c5-4ebd-a4a9-47f630a17b7b
+2026-01-14 20:58:05 [32minfo[39m: [general] - 	tx sent 0x25f515c2894ce815760164009842587e54497f20b7542255cd92a295be097598 for polygon_amoy
+2026-01-14 20:59:02 [32minfo[39m: [general] - 	count is 131
+2026-01-14 20:59:05 [32minfo[39m: [general] - 	Record inserted for 0xc6fb572540b4d47fb82699e0f6a22f80826ce72eb16caa12ecbb450ea0613e54 with queue_id 12fecc22-c0e2-41f8-a1da-eb75b7018eac
+2026-01-14 20:59:05 [32minfo[39m: [general] - 	tx sent 0xc6fb572540b4d47fb82699e0f6a22f80826ce72eb16caa12ecbb450ea0613e54 for polygon_amoy
+2026-01-14 21:00:02 [32minfo[39m: [general] - 	count is 132
+2026-01-14 21:00:05 [32minfo[39m: [general] - 	Record inserted for 0xcda4f7f57424e538699198b3669a9002400bee4694f4c2ccd6dcfe18dce9a134 with queue_id 2675e439-c378-4bec-a344-fac8a5563f76
+2026-01-14 21:00:05 [32minfo[39m: [general] - 	tx sent 0xcda4f7f57424e538699198b3669a9002400bee4694f4c2ccd6dcfe18dce9a134 for polygon_amoy
+2026-01-14 21:01:02 [32minfo[39m: [general] - 	count is 133
+2026-01-14 21:01:05 [32minfo[39m: [general] - 	Record inserted for 0x8a529e17cb611a716b5f9bcfe57274d47bc4f0f589e7cd74bdf78cf641123bf6 with queue_id af437e3d-8be7-4616-b454-e33cea18d880
+2026-01-14 21:01:05 [32minfo[39m: [general] - 	tx sent 0x8a529e17cb611a716b5f9bcfe57274d47bc4f0f589e7cd74bdf78cf641123bf6 for polygon_amoy
+2026-01-14 21:02:02 [32minfo[39m: [general] - 	count is 134
+2026-01-14 21:02:05 [32minfo[39m: [general] - 	Record inserted for 0x763eeea0af1dcf2e9dcab003261dec9f8224a189cfda0f41958384bf0b2e6361 with queue_id 7fd1e858-0e00-4606-b61f-833b1a71d817
+2026-01-14 21:02:05 [32minfo[39m: [general] - 	tx sent 0x763eeea0af1dcf2e9dcab003261dec9f8224a189cfda0f41958384bf0b2e6361 for polygon_amoy
+2026-01-14 21:03:02 [32minfo[39m: [general] - 	count is 135
+2026-01-14 21:03:05 [32minfo[39m: [general] - 	Record inserted for 0x7f8bcd153aa202a5155e53af9e7fa21d1ca8ba25e4e0c863030ceaa5cab6d717 with queue_id aff77b9a-fd0b-45f9-88f2-10ca5a59e569
+2026-01-14 21:03:05 [32minfo[39m: [general] - 	tx sent 0x7f8bcd153aa202a5155e53af9e7fa21d1ca8ba25e4e0c863030ceaa5cab6d717 for polygon_amoy
+2026-01-14 21:04:02 [32minfo[39m: [general] - 	count is 136
+2026-01-14 21:04:05 [32minfo[39m: [general] - 	Record inserted for 0xcc036dd65bb8bd20f782d8b60ea938b94582a91003c92eaaf8116acd800e01e6 with queue_id 1cbeb12f-c7d2-41d7-90fa-aa750a71c640
+2026-01-14 21:04:05 [32minfo[39m: [general] - 	tx sent 0xcc036dd65bb8bd20f782d8b60ea938b94582a91003c92eaaf8116acd800e01e6 for polygon_amoy
+2026-01-14 21:05:02 [32minfo[39m: [general] - 	count is 137
+2026-01-14 21:05:05 [32minfo[39m: [general] - 	Record inserted for 0xe8255c96ac8a3adc891dbd34794e7c3959677b1700afff10ba4984e6e9bb2c17 with queue_id 6fcedaa7-3012-4c0f-a79d-922153a72013
+2026-01-14 21:05:05 [32minfo[39m: [general] - 	tx sent 0xe8255c96ac8a3adc891dbd34794e7c3959677b1700afff10ba4984e6e9bb2c17 for polygon_amoy
+2026-01-14 21:06:02 [32minfo[39m: [general] - 	count is 138
+2026-01-14 21:06:05 [32minfo[39m: [general] - 	Record inserted for 0x0f293dba28a6c971d1a4779e6594ea6d1997cc79a281f7054c74ea6c5d99a556 with queue_id 54388cbe-b494-4bf4-8bf9-8362d7901dbf
+2026-01-14 21:06:05 [32minfo[39m: [general] - 	tx sent 0x0f293dba28a6c971d1a4779e6594ea6d1997cc79a281f7054c74ea6c5d99a556 for polygon_amoy
+2026-01-14 21:07:02 [32minfo[39m: [general] - 	count is 139
+2026-01-14 21:07:05 [32minfo[39m: [general] - 	Record inserted for 0x5f1dedb5fafbbccfba3c12f81b6d020939bf7caead5333fb96b249e98588a27f with queue_id 58fde470-b371-463b-9f74-3d0086526193
+2026-01-14 21:07:05 [32minfo[39m: [general] - 	tx sent 0x5f1dedb5fafbbccfba3c12f81b6d020939bf7caead5333fb96b249e98588a27f for polygon_amoy
+2026-01-14 21:08:02 [32minfo[39m: [general] - 	count is 140
+2026-01-14 21:08:05 [32minfo[39m: [general] - 	Record inserted for 0xef63afc49439a2ceac485bca86dd282064124bb7c75a6a81aa3a1ad1d281c2b3 with queue_id 8c5bb139-a605-4782-939f-8579c6f69781
+2026-01-14 21:08:05 [32minfo[39m: [general] - 	tx sent 0xef63afc49439a2ceac485bca86dd282064124bb7c75a6a81aa3a1ad1d281c2b3 for polygon_amoy
+2026-01-14 21:09:02 [32minfo[39m: [general] - 	count is 141
+2026-01-14 21:09:05 [32minfo[39m: [general] - 	Record inserted for 0x7daf16b96416fcfe630273d85dce36ba7a529979f724c0276c38c4a72ac2b9b1 with queue_id 6120d76d-c0d5-4ae2-8b74-7f4d60a8b0f5
+2026-01-14 21:09:05 [32minfo[39m: [general] - 	tx sent 0x7daf16b96416fcfe630273d85dce36ba7a529979f724c0276c38c4a72ac2b9b1 for polygon_amoy
+2026-01-14 21:10:02 [32minfo[39m: [general] - 	count is 142
+2026-01-14 21:10:05 [32minfo[39m: [general] - 	Record inserted for 0x1cac0a17ca7132c9417004ad0b5e17321137cff49d14c6e4c79cda1e3f27fa40 with queue_id d507ff4e-bd71-447d-8fdd-8e95da85cf62
+2026-01-14 21:10:05 [32minfo[39m: [general] - 	tx sent 0x1cac0a17ca7132c9417004ad0b5e17321137cff49d14c6e4c79cda1e3f27fa40 for polygon_amoy
+2026-01-14 21:11:02 [32minfo[39m: [general] - 	count is 143
+2026-01-14 21:11:05 [32minfo[39m: [general] - 	Record inserted for 0x722946db97efbb1b8a917231dd1c067cad9b5993b185aa87b48fee4a227e6722 with queue_id 88c17e2d-c6b7-4066-88b1-f9f260f87946
+2026-01-14 21:11:05 [32minfo[39m: [general] - 	tx sent 0x722946db97efbb1b8a917231dd1c067cad9b5993b185aa87b48fee4a227e6722 for polygon_amoy
+2026-01-14 21:12:02 [32minfo[39m: [general] - 	count is 144
+2026-01-14 21:12:05 [32minfo[39m: [general] - 	Record inserted for 0xac13803c2988de99960d381c22bb2986796786b10ecfdda3d9ef5ac1568f6066 with queue_id b9146565-dbb4-4534-b156-f54b5d508e55
+2026-01-14 21:12:05 [32minfo[39m: [general] - 	tx sent 0xac13803c2988de99960d381c22bb2986796786b10ecfdda3d9ef5ac1568f6066 for polygon_amoy
+2026-01-14 21:13:02 [32minfo[39m: [general] - 	count is 145
+2026-01-14 21:13:05 [32minfo[39m: [general] - 	Record inserted for 0x71c6c73ee47c91f88c87f4670a075188e3d130e8053642d0ca4d4152a3a08dcb with queue_id 3960b8b3-00cb-488d-b6f8-6bc95985d903
+2026-01-14 21:13:05 [32minfo[39m: [general] - 	tx sent 0x71c6c73ee47c91f88c87f4670a075188e3d130e8053642d0ca4d4152a3a08dcb for polygon_amoy
+2026-01-14 21:14:02 [32minfo[39m: [general] - 	count is 146
+2026-01-14 21:14:05 [32minfo[39m: [general] - 	Record inserted for 0x0466699a44a9c245154cb3e08ffb7485befbe9be3e9d7cf23dcd978e6257048b with queue_id 3fa850ff-74b5-4b57-8276-13fbf59a2f52
+2026-01-14 21:14:05 [32minfo[39m: [general] - 	tx sent 0x0466699a44a9c245154cb3e08ffb7485befbe9be3e9d7cf23dcd978e6257048b for polygon_amoy
+2026-01-14 21:15:02 [32minfo[39m: [general] - 	count is 147
+2026-01-14 21:15:05 [32minfo[39m: [general] - 	Record inserted for 0x1e30f04d9235d59e522709b3380d678e8d54147e5cb003a4535b0eeacccd5a97 with queue_id c0195553-22b6-481d-b1b5-9c7b2d9a6962
+2026-01-14 21:15:05 [32minfo[39m: [general] - 	tx sent 0x1e30f04d9235d59e522709b3380d678e8d54147e5cb003a4535b0eeacccd5a97 for polygon_amoy
+2026-01-14 21:16:02 [32minfo[39m: [general] - 	count is 148
+2026-01-14 21:16:05 [32minfo[39m: [general] - 	Record inserted for 0x13c2a0617ce6fc643c6228de382899327154c06e6a42e36b8caa7c97770ec513 with queue_id 0bcb0b92-0600-4c04-8dd2-30b39be1b799
+2026-01-14 21:16:05 [32minfo[39m: [general] - 	tx sent 0x13c2a0617ce6fc643c6228de382899327154c06e6a42e36b8caa7c97770ec513 for polygon_amoy
+2026-01-14 21:17:02 [32minfo[39m: [general] - 	count is 149
+2026-01-14 21:17:05 [32minfo[39m: [general] - 	Record inserted for 0x40ec3221d1d73394944a13bbd61749d60b9d1ff8395b53bc1dfff289c881c66f with queue_id 3474c742-49f9-4d0e-87ee-a6839bffdffb
+2026-01-14 21:17:05 [32minfo[39m: [general] - 	tx sent 0x40ec3221d1d73394944a13bbd61749d60b9d1ff8395b53bc1dfff289c881c66f for polygon_amoy
+2026-01-14 21:18:02 [32minfo[39m: [general] - 	count is 150
+2026-01-14 21:18:05 [32minfo[39m: [general] - 	Record inserted for 0x40c7f80b0a5f2203ab4ed823974cbd151df702d24c8fe21f4e959b5078a102c7 with queue_id d39ebe8d-c2b8-473c-9228-b438737f9e6a
+2026-01-14 21:18:05 [32minfo[39m: [general] - 	tx sent 0x40c7f80b0a5f2203ab4ed823974cbd151df702d24c8fe21f4e959b5078a102c7 for polygon_amoy
+2026-01-14 21:19:02 [32minfo[39m: [general] - 	count is 151
+2026-01-14 21:19:05 [32minfo[39m: [general] - 	Record inserted for 0xf2a9e5917b08952da6ce55b99cec3199e6f0086eec73196f6c2d46e09de79560 with queue_id 05bb668d-43d8-48de-a094-c671dc8d44fd
+2026-01-14 21:19:05 [32minfo[39m: [general] - 	tx sent 0xf2a9e5917b08952da6ce55b99cec3199e6f0086eec73196f6c2d46e09de79560 for polygon_amoy
+2026-01-14 21:20:02 [32minfo[39m: [general] - 	count is 152
+2026-01-14 21:20:05 [32minfo[39m: [general] - 	Record inserted for 0xa32b2136b562377650f059c2f40c2086ea5a978d26254feabf54f879e90d0ba6 with queue_id 55513853-0d6b-4e4c-aec3-30eb52c7ce68
+2026-01-14 21:20:05 [32minfo[39m: [general] - 	tx sent 0xa32b2136b562377650f059c2f40c2086ea5a978d26254feabf54f879e90d0ba6 for polygon_amoy
+2026-01-14 21:21:02 [32minfo[39m: [general] - 	count is 153
+2026-01-14 21:21:05 [32minfo[39m: [general] - 	Record inserted for 0xccfff82aaab4a0656ba4b23211938544d55331d15f1942ec45ed9684f006aa4f with queue_id cf487b63-11ee-4697-8142-7cf652dbb684
+2026-01-14 21:21:05 [32minfo[39m: [general] - 	tx sent 0xccfff82aaab4a0656ba4b23211938544d55331d15f1942ec45ed9684f006aa4f for polygon_amoy
+2026-01-14 21:22:02 [32minfo[39m: [general] - 	count is 154
+2026-01-14 21:22:05 [32minfo[39m: [general] - 	Record inserted for 0xc244f4a487d19fc1f3698ae94bc538f52f70f428cca8031347a154301180d8e7 with queue_id 9abdb306-9ca4-4e27-97f3-7c70fa5fc5c5
+2026-01-14 21:22:05 [32minfo[39m: [general] - 	tx sent 0xc244f4a487d19fc1f3698ae94bc538f52f70f428cca8031347a154301180d8e7 for polygon_amoy
+2026-01-14 21:23:02 [32minfo[39m: [general] - 	count is 155
+2026-01-14 21:23:05 [32minfo[39m: [general] - 	Record inserted for 0xc5e4b957dbb569fab3e8f6caae1bda7f7469078cfa05305225e955ca9192c869 with queue_id c7d3b633-7e29-4dc7-b502-d717594a6f2a
+2026-01-14 21:23:05 [32minfo[39m: [general] - 	tx sent 0xc5e4b957dbb569fab3e8f6caae1bda7f7469078cfa05305225e955ca9192c869 for polygon_amoy
+2026-01-14 21:24:02 [32minfo[39m: [general] - 	count is 156
+2026-01-14 21:24:05 [32minfo[39m: [general] - 	Record inserted for 0x5d6084bcfaf12592b13f24b0d7b0c2578aabd8d913c33f4b60a3b447e871bc80 with queue_id a83eea68-bbcd-4e55-b022-496a64e21b80
+2026-01-14 21:24:05 [32minfo[39m: [general] - 	tx sent 0x5d6084bcfaf12592b13f24b0d7b0c2578aabd8d913c33f4b60a3b447e871bc80 for polygon_amoy
+2026-01-14 21:25:02 [32minfo[39m: [general] - 	count is 157
+2026-01-14 21:25:05 [32minfo[39m: [general] - 	Record inserted for 0xe7a4b92a3c0a99e4f16a27337fd3af755dc83b6857b11468583306892fc391e6 with queue_id 8b4c9cc9-2170-4d71-a174-16ea5f8e9b7f
+2026-01-14 21:25:05 [32minfo[39m: [general] - 	tx sent 0xe7a4b92a3c0a99e4f16a27337fd3af755dc83b6857b11468583306892fc391e6 for polygon_amoy
+2026-01-14 21:26:02 [32minfo[39m: [general] - 	count is 158
+2026-01-14 21:26:05 [32minfo[39m: [general] - 	Record inserted for 0x8843bf3962c72c66cf3c2419e2b9c9af65536a9d9d92eeff890a0a69326bd772 with queue_id 580a560d-03c6-4731-aa29-6a4a83bda747
+2026-01-14 21:26:05 [32minfo[39m: [general] - 	tx sent 0x8843bf3962c72c66cf3c2419e2b9c9af65536a9d9d92eeff890a0a69326bd772 for polygon_amoy
+2026-01-14 21:27:02 [32minfo[39m: [general] - 	count is 159
+2026-01-14 21:27:05 [32minfo[39m: [general] - 	Record inserted for 0x87e440c60bc48eb3416a139806284a4f7ef28790efc28f888334de9e8aa3a287 with queue_id 05b59111-1ed0-45c6-8e20-7bc01b2fbc27
+2026-01-14 21:27:05 [32minfo[39m: [general] - 	tx sent 0x87e440c60bc48eb3416a139806284a4f7ef28790efc28f888334de9e8aa3a287 for polygon_amoy
+2026-01-14 21:28:02 [32minfo[39m: [general] - 	count is 160
+2026-01-14 21:28:05 [32minfo[39m: [general] - 	Record inserted for 0x3e06a1f8b6318b21a70215c67ff60b45dfa0ac795db9f1d8150a742c8c0e63e2 with queue_id 65d055e1-910e-4369-97be-b9f7a5bb4d82
+2026-01-14 21:28:05 [32minfo[39m: [general] - 	tx sent 0x3e06a1f8b6318b21a70215c67ff60b45dfa0ac795db9f1d8150a742c8c0e63e2 for polygon_amoy
+2026-01-14 21:29:02 [32minfo[39m: [general] - 	count is 161
+2026-01-14 21:29:05 [32minfo[39m: [general] - 	Record inserted for 0xe710ce9bf3014e26a557d7f96bed86cfa4be9580243fdbb587765c2532a55883 with queue_id d3fc6a92-5df6-4d12-8478-22463f6ab361
+2026-01-14 21:29:05 [32minfo[39m: [general] - 	tx sent 0xe710ce9bf3014e26a557d7f96bed86cfa4be9580243fdbb587765c2532a55883 for polygon_amoy
+2026-01-14 21:30:02 [32minfo[39m: [general] - 	count is 162
+2026-01-14 21:30:05 [32minfo[39m: [general] - 	Record inserted for 0xf31ed46c481041e235f768f327427327dc579e60a9d2502662898c8bf9d6a347 with queue_id bcfb3726-d83a-464d-b1d2-47ff4a885b2a
+2026-01-14 21:30:05 [32minfo[39m: [general] - 	tx sent 0xf31ed46c481041e235f768f327427327dc579e60a9d2502662898c8bf9d6a347 for polygon_amoy
+2026-01-14 21:31:02 [32minfo[39m: [general] - 	count is 163
+2026-01-14 21:31:05 [32minfo[39m: [general] - 	Record inserted for 0x8a0f418b1ac7c6de1b218bc58e7d77062159e0aeaf7fdef2f90ff5dd56bd4caa with queue_id 42ec912a-72ff-489f-a5d3-189f2f197c5c
+2026-01-14 21:31:05 [32minfo[39m: [general] - 	tx sent 0x8a0f418b1ac7c6de1b218bc58e7d77062159e0aeaf7fdef2f90ff5dd56bd4caa for polygon_amoy
+2026-01-14 21:32:02 [32minfo[39m: [general] - 	count is 164
+2026-01-14 21:32:05 [32minfo[39m: [general] - 	Record inserted for 0x8cc99bc6f2e75a14296778708ac187175d808147a43ea0c09d8fdfd4c29c5c44 with queue_id db1337f8-8498-4852-a713-539184ddc701
+2026-01-14 21:32:05 [32minfo[39m: [general] - 	tx sent 0x8cc99bc6f2e75a14296778708ac187175d808147a43ea0c09d8fdfd4c29c5c44 for polygon_amoy
+2026-01-14 21:33:02 [32minfo[39m: [general] - 	count is 165
+2026-01-14 21:33:05 [32minfo[39m: [general] - 	Record inserted for 0xf90af8f52e239c1c6b322339771857479da85b3be7918b79ce712c45f505f04a with queue_id 844c49a1-274a-4873-bd05-d80786ddfd8a
+2026-01-14 21:33:05 [32minfo[39m: [general] - 	tx sent 0xf90af8f52e239c1c6b322339771857479da85b3be7918b79ce712c45f505f04a for polygon_amoy
+2026-01-14 21:34:02 [32minfo[39m: [general] - 	count is 166
+2026-01-14 21:34:05 [32minfo[39m: [general] - 	Record inserted for 0xae20cef5840b944a9fa43e732e4a518d2be7f870e1752838e7f159343982b75a with queue_id 5bd40fb8-89fd-4e99-b982-c0612dbca2de
+2026-01-14 21:34:05 [32minfo[39m: [general] - 	tx sent 0xae20cef5840b944a9fa43e732e4a518d2be7f870e1752838e7f159343982b75a for polygon_amoy
+2026-01-14 21:35:02 [32minfo[39m: [general] - 	count is 167
+2026-01-14 21:35:05 [32minfo[39m: [general] - 	Record inserted for 0x44432035dc735fb277d20a5a70af1e942309090b39748386b06f17a76ad4fe58 with queue_id cf6eb9f5-7452-4d6c-9baf-d526d58151a3
+2026-01-14 21:35:05 [32minfo[39m: [general] - 	tx sent 0x44432035dc735fb277d20a5a70af1e942309090b39748386b06f17a76ad4fe58 for polygon_amoy
+2026-01-14 21:36:02 [32minfo[39m: [general] - 	count is 168
+2026-01-14 21:36:05 [32minfo[39m: [general] - 	Record inserted for 0x7cb24df62df3b03d9ee18c46f2edcec4eea4ba288b17180dcb5ad2a0aa0bce1f with queue_id 17e913e1-843e-477a-a311-c361b003c6ec
+2026-01-14 21:36:05 [32minfo[39m: [general] - 	tx sent 0x7cb24df62df3b03d9ee18c46f2edcec4eea4ba288b17180dcb5ad2a0aa0bce1f for polygon_amoy
+2026-01-14 21:37:02 [32minfo[39m: [general] - 	count is 169
+2026-01-14 21:37:05 [32minfo[39m: [general] - 	Record inserted for 0x4d18651a8e79481f38497a54819e2332d03cd3757a5d23afc0c79b37559da5c4 with queue_id d39a2953-eed6-4437-bdaf-09907eaae118
+2026-01-14 21:37:05 [32minfo[39m: [general] - 	tx sent 0x4d18651a8e79481f38497a54819e2332d03cd3757a5d23afc0c79b37559da5c4 for polygon_amoy
+2026-01-14 21:38:02 [32minfo[39m: [general] - 	count is 170
+2026-01-14 21:38:05 [32minfo[39m: [general] - 	Record inserted for 0x9e1391b595cb835a06828ac9452749084cd5683c126c8a595df098bc36ac3342 with queue_id c1e55b58-2acf-4dd3-9c90-8cec3bee229e
+2026-01-14 21:38:05 [32minfo[39m: [general] - 	tx sent 0x9e1391b595cb835a06828ac9452749084cd5683c126c8a595df098bc36ac3342 for polygon_amoy
+2026-01-14 21:39:02 [32minfo[39m: [general] - 	count is 171
+2026-01-14 21:39:05 [32minfo[39m: [general] - 	Record inserted for 0x5a3a9f7df85dc3320a6a1646bac7b3d9b38fa1856edf1d99e33947506c3636a2 with queue_id 56c3f120-3a95-4002-baa3-96671926896f
+2026-01-14 21:39:05 [32minfo[39m: [general] - 	tx sent 0x5a3a9f7df85dc3320a6a1646bac7b3d9b38fa1856edf1d99e33947506c3636a2 for polygon_amoy
+2026-01-14 21:40:02 [32minfo[39m: [general] - 	count is 172
+2026-01-14 21:40:05 [32minfo[39m: [general] - 	Record inserted for 0x75d7484c11188c857ec13697ed8508c4af9cecba258c39734e698e2082d3eedd with queue_id ce5b5dda-0f4f-4a93-873d-0bd9a14b511c
+2026-01-14 21:40:05 [32minfo[39m: [general] - 	tx sent 0x75d7484c11188c857ec13697ed8508c4af9cecba258c39734e698e2082d3eedd for polygon_amoy
+2026-01-14 21:41:02 [32minfo[39m: [general] - 	count is 173
+2026-01-14 21:41:05 [32minfo[39m: [general] - 	Record inserted for 0x987795c0487beefb1372e11847cb5522eb8d496ce09c1ed9b8a7eca3865e27bd with queue_id 2b4474e4-d4d8-40b9-9ada-68a9d3229aca
+2026-01-14 21:41:05 [32minfo[39m: [general] - 	tx sent 0x987795c0487beefb1372e11847cb5522eb8d496ce09c1ed9b8a7eca3865e27bd for polygon_amoy
+2026-01-14 21:42:02 [32minfo[39m: [general] - 	count is 174
+2026-01-14 21:42:05 [32minfo[39m: [general] - 	Record inserted for 0x611bea806b5b5caed47420c5a91271f46fe9c21df706a8d72d45909f4f8004f8 with queue_id a35dbb45-ba4e-479f-8760-ff8cfafa1c81
+2026-01-14 21:42:05 [32minfo[39m: [general] - 	tx sent 0x611bea806b5b5caed47420c5a91271f46fe9c21df706a8d72d45909f4f8004f8 for polygon_amoy
+2026-01-14 21:43:02 [32minfo[39m: [general] - 	count is 175
+2026-01-14 21:43:05 [32minfo[39m: [general] - 	Record inserted for 0x12922e89616df528634bddfe55519823d7ac2626062a9fd5b9c7f66ae06d2915 with queue_id 7b2a81a8-6fac-4b27-91e5-b5fe77c0d9ad
+2026-01-14 21:43:05 [32minfo[39m: [general] - 	tx sent 0x12922e89616df528634bddfe55519823d7ac2626062a9fd5b9c7f66ae06d2915 for polygon_amoy
+2026-01-14 21:44:02 [32minfo[39m: [general] - 	count is 176
+2026-01-14 21:44:05 [32minfo[39m: [general] - 	Record inserted for 0x3cb3117d823cb0e5ab3cf6797641870c492490ac80aa07514c11e8943045c35f with queue_id c588c46c-cf5f-41dc-9d36-733ee27ccfe1
+2026-01-14 21:44:05 [32minfo[39m: [general] - 	tx sent 0x3cb3117d823cb0e5ab3cf6797641870c492490ac80aa07514c11e8943045c35f for polygon_amoy
+2026-01-14 21:45:02 [32minfo[39m: [general] - 	count is 177
+2026-01-14 21:45:05 [32minfo[39m: [general] - 	Record inserted for 0xf6643dd9a097b1b441db014cfb6726b44de22a62e956e151681a47e51ed94769 with queue_id 184ad09a-5a1d-4e6b-b0e0-f05b932e7f7a
+2026-01-14 21:45:05 [32minfo[39m: [general] - 	tx sent 0xf6643dd9a097b1b441db014cfb6726b44de22a62e956e151681a47e51ed94769 for polygon_amoy
+2026-01-14 21:46:02 [32minfo[39m: [general] - 	count is 178
+2026-01-14 21:46:05 [32minfo[39m: [general] - 	Record inserted for 0x2701acf5032f96c079514bbd134e0f96966d392541106c2e08bccf35fda039bb with queue_id 0f3dc43a-2c5c-44d4-8c87-a01638ba5fee
+2026-01-14 21:46:05 [32minfo[39m: [general] - 	tx sent 0x2701acf5032f96c079514bbd134e0f96966d392541106c2e08bccf35fda039bb for polygon_amoy
+2026-01-14 21:47:02 [32minfo[39m: [general] - 	count is 179
+2026-01-14 21:47:05 [32minfo[39m: [general] - 	Record inserted for 0x1dadea1b3d74f2abf9bc1bd2aadb6c5350f18b20ea01750666611773aa8db9bc with queue_id 8c53f9e4-b357-460d-94be-dd52275c2240
+2026-01-14 21:47:05 [32minfo[39m: [general] - 	tx sent 0x1dadea1b3d74f2abf9bc1bd2aadb6c5350f18b20ea01750666611773aa8db9bc for polygon_amoy
+2026-01-14 21:48:02 [32minfo[39m: [general] - 	count is 180
+2026-01-14 21:48:05 [32minfo[39m: [general] - 	Record inserted for 0x4206bf8d09c94226b7dd8b8a5734ab9e448058e6384d804a915bc3190e0d7790 with queue_id 66f4a610-9037-4c4e-b337-72ff363751bc
+2026-01-14 21:48:05 [32minfo[39m: [general] - 	tx sent 0x4206bf8d09c94226b7dd8b8a5734ab9e448058e6384d804a915bc3190e0d7790 for polygon_amoy
+2026-01-14 21:49:02 [32minfo[39m: [general] - 	count is 181
+2026-01-14 21:49:05 [32minfo[39m: [general] - 	Record inserted for 0x1eace3999014e328e4e76dd5e8982f0fa6fef4226d8a5365a126b1e8c16d8f48 with queue_id 568272ae-c7f2-42d4-82d8-11221607cc25
+2026-01-14 21:49:05 [32minfo[39m: [general] - 	tx sent 0x1eace3999014e328e4e76dd5e8982f0fa6fef4226d8a5365a126b1e8c16d8f48 for polygon_amoy
+2026-01-14 21:50:02 [32minfo[39m: [general] - 	count is 182
+2026-01-14 21:50:05 [32minfo[39m: [general] - 	Record inserted for 0x4fca9081891594d4368894910a368cf18bb6d95a66ca3e014e2ab613ab1d2a01 with queue_id 4891800a-3157-4286-9923-647170d1fdc0
+2026-01-14 21:50:05 [32minfo[39m: [general] - 	tx sent 0x4fca9081891594d4368894910a368cf18bb6d95a66ca3e014e2ab613ab1d2a01 for polygon_amoy
+2026-01-14 21:51:02 [32minfo[39m: [general] - 	count is 183
+2026-01-14 21:51:05 [32minfo[39m: [general] - 	Record inserted for 0xc102d9cbd2e83657248339f5b64fa3645e599c0e4f207b99f89e308eb4533c5c with queue_id 3c78326f-81ea-44e7-ad4a-7c61f9a1c7d4
+2026-01-14 21:51:05 [32minfo[39m: [general] - 	tx sent 0xc102d9cbd2e83657248339f5b64fa3645e599c0e4f207b99f89e308eb4533c5c for polygon_amoy
+2026-01-14 21:52:02 [32minfo[39m: [general] - 	count is 184
+2026-01-14 21:52:05 [32minfo[39m: [general] - 	Record inserted for 0x6568eaac87e866ceecf3a1983848ad0e32cf5c07b1abb100a966816915b7f767 with queue_id 7d842258-35f9-41c1-ae22-75d513b2b3fc
+2026-01-14 21:52:05 [32minfo[39m: [general] - 	tx sent 0x6568eaac87e866ceecf3a1983848ad0e32cf5c07b1abb100a966816915b7f767 for polygon_amoy
+2026-01-14 21:53:02 [32minfo[39m: [general] - 	count is 185
+2026-01-14 21:53:05 [32minfo[39m: [general] - 	Record inserted for 0xe7a85c9b60747b89b20d7bed59c01d88afa197e7cf8e233b4e8c6e94aeef7847 with queue_id 6383aa5a-2ba5-4e1e-a0a0-b358d4328ab4
+2026-01-14 21:53:05 [32minfo[39m: [general] - 	tx sent 0xe7a85c9b60747b89b20d7bed59c01d88afa197e7cf8e233b4e8c6e94aeef7847 for polygon_amoy
+2026-01-14 21:54:02 [32minfo[39m: [general] - 	count is 186
+2026-01-14 21:54:05 [32minfo[39m: [general] - 	Record inserted for 0x5e970d73220da4c14aff28335ee6e5b72fbc00d92eb7c78650fd86a79ee46b8b with queue_id 656b960f-43ea-4f3f-bb51-916b460b6902
+2026-01-14 21:54:05 [32minfo[39m: [general] - 	tx sent 0x5e970d73220da4c14aff28335ee6e5b72fbc00d92eb7c78650fd86a79ee46b8b for polygon_amoy
+2026-01-14 21:55:02 [32minfo[39m: [general] - 	count is 187
+2026-01-14 21:55:05 [32minfo[39m: [general] - 	Record inserted for 0x2c9e1b38a8703c94536495df9ff0e93ceb70257e903d8afdef4cfd288ed43b8f with queue_id f5172d3e-9a11-40aa-b906-7527d939ec8e
+2026-01-14 21:55:05 [32minfo[39m: [general] - 	tx sent 0x2c9e1b38a8703c94536495df9ff0e93ceb70257e903d8afdef4cfd288ed43b8f for polygon_amoy
+2026-01-14 21:56:02 [32minfo[39m: [general] - 	count is 188
+2026-01-14 21:56:05 [32minfo[39m: [general] - 	Record inserted for 0x998473b9a695479c114163ff033a175301ee1c8e3a63fd74940e36e58df9828d with queue_id 24fa9d71-2795-4d8a-b288-0b8872a1b9ea
+2026-01-14 21:56:05 [32minfo[39m: [general] - 	tx sent 0x998473b9a695479c114163ff033a175301ee1c8e3a63fd74940e36e58df9828d for polygon_amoy
+2026-01-14 21:57:02 [32minfo[39m: [general] - 	count is 189
+2026-01-14 21:57:05 [32minfo[39m: [general] - 	Record inserted for 0x8bf5323ea7924a7f06a5c18d95fff95a2423c4dc9602aecd61917885c21c2180 with queue_id 00e558f2-02fb-4aec-9915-9b67f750bdd9
+2026-01-14 21:57:05 [32minfo[39m: [general] - 	tx sent 0x8bf5323ea7924a7f06a5c18d95fff95a2423c4dc9602aecd61917885c21c2180 for polygon_amoy

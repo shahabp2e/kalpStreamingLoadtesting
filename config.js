@@ -9,4 +9,5 @@ module.exports = {
         database: process.env.DB_DATABASE,
         port: process.env.DB_PORT,
     },
+    transactionApiUrl: process.env.TRANSACTION_API_URL
 };

@@ -1,0 +1,53 @@
+2026-01-19 17:30:58 [32minfo[39m: [general] - 	service_1amoy running on port 6001
+2026-01-19 17:32:22 [32minfo[39m: [general] - 	service_1amoy running on port 6001
+2026-01-19 17:34:43 [32minfo[39m: [general] - 	service_1amoy running on port 9001
+2026-01-19 17:34:43 [32minfo[39m: [general] - 	count is 1
+2026-01-19 17:34:46 [32minfo[39m: [general] - 	Record inserted for 0x520c05758377bc53844115f7c38ebf57044529f30d2b6c0d4860837a375ec89f with queue_id 257edeb5-2d65-4307-88de-ca6cf9f5bb98
+2026-01-19 17:34:46 [32minfo[39m: [general] - 	tx sent 0x520c05758377bc53844115f7c38ebf57044529f30d2b6c0d4860837a375ec89f for polygon_amoy
+2026-01-19 17:35:04 [32minfo[39m: [general] - 	service_1amoy running on port 9001
+2026-01-19 17:35:40 [32minfo[39m: [general] - 	{"conf":{"event_name":"IncCounter1","transaction_id":"f1071941850383fa4c3ef52a79cff8519e5e95b93219094caeb36a38fc83303e","event_data":"{\"value\":4}","block_number":349531},"dag_run_id":"manual-1768824340437"}
+2026-01-19 17:35:40 [32minfo[39m: [general] - 	Entry inside service_1_polygon_amoy does not exist
+2026-01-19 17:35:40 [32minfo[39m: [general] - 	Record inserted for f1071941850383fa4c3ef52a79cff8519e5e95b93219094caeb36a38fc83303e
+2026-01-19 18:02:06 [32minfo[39m: [general] - 	service_1amoy running on port 9001
+2026-01-19 18:02:07 [32minfo[39m: [general] - 	count is 1
+2026-01-19 18:02:10 [32minfo[39m: [general] - 	Record inserted for 0x7648581b47cfbd21cd61ad5abf5e949232a8d57c2b930562df4a25e01608e206 with queue_id 62779388-4fb7-46bc-af5c-e9bbd5cd6fa4
+2026-01-19 18:02:10 [32minfo[39m: [general] - 	tx sent 0x7648581b47cfbd21cd61ad5abf5e949232a8d57c2b930562df4a25e01608e206 for polygon_amoy
+2026-01-19 18:03:00 [32minfo[39m: [general] - 	service_1amoy running on port 9001
+2026-01-19 18:03:00 [32minfo[39m: [general] - 	count is 1
+2026-01-19 18:03:04 [32minfo[39m: [general] - 	Record inserted for 0xbd8ed11664843023c5b70aded58cd07e61e597cddb2e162e9f102136b0cbadf2 with queue_id 74939e6c-f3b0-4f15-9a33-90a45e3485f7
+2026-01-19 18:03:04 [32minfo[39m: [general] - 	tx sent 0xbd8ed11664843023c5b70aded58cd07e61e597cddb2e162e9f102136b0cbadf2 for polygon_amoy
+2026-01-19 18:03:09 [32minfo[39m: [general] - 	count is 2
+2026-01-19 18:03:12 [32minfo[39m: [general] - 	Record inserted for 0x9f799da333ec2d14326dc137f2dbf41b368106674a100dfbba6a6c1d85a20d8d with queue_id a51cb0bc-1fa8-4931-bfbd-73083548653d
+2026-01-19 18:03:12 [32minfo[39m: [general] - 	tx sent 0x9f799da333ec2d14326dc137f2dbf41b368106674a100dfbba6a6c1d85a20d8d for polygon_amoy
+2026-01-19 18:03:14 [32minfo[39m: [general] - 	count is 3
+2026-01-19 18:03:17 [32minfo[39m: [general] - 	Record inserted for 0x533ee13874a588104ba1ee2fa4c87e9ab65750808e1868ce62915e87beeed5b0 with queue_id c76b91dc-34f1-48c5-91d5-4534bfc42ea2
+2026-01-19 18:03:17 [32minfo[39m: [general] - 	tx sent 0x533ee13874a588104ba1ee2fa4c87e9ab65750808e1868ce62915e87beeed5b0 for polygon_amoy
+2026-01-19 18:03:19 [32minfo[39m: [general] - 	service_1amoy running on port 9001
+2026-01-19 18:03:19 [32minfo[39m: [general] - 	count is 1
+2026-01-19 18:03:23 [32minfo[39m: [general] - 	Record inserted for 0x147807c5d3ad956b832f8cc8b9754929d03476268eb8711ea18639ee4f4f4929 with queue_id b2f7e870-f69a-46f7-ba43-86724fe9c148
+2026-01-19 18:03:23 [32minfo[39m: [general] - 	tx sent 0x147807c5d3ad956b832f8cc8b9754929d03476268eb8711ea18639ee4f4f4929 for polygon_amoy
+2026-01-19 18:03:28 [32minfo[39m: [general] - 	count is 2
+2026-01-19 18:03:31 [32minfo[39m: [general] - 	Record inserted for 0x1a7ad0e8ab4ac0659a89f589d4626681e8d8b8a9baf3548d5624332dbd7f17d7 with queue_id ec07eb79-754e-439d-919d-febf201948a5
+2026-01-19 18:03:31 [32minfo[39m: [general] - 	tx sent 0x1a7ad0e8ab4ac0659a89f589d4626681e8d8b8a9baf3548d5624332dbd7f17d7 for polygon_amoy
+2026-01-19 18:03:33 [32minfo[39m: [general] - 	count is 3
+2026-01-19 18:03:36 [32minfo[39m: [general] - 	Record inserted for 0xcaf0a2df70537017429b58ad86dd68168f194c7d3894d935537b04b6ea6f5d5e with queue_id d13df7f2-28c9-4c8f-8cd9-507f88b293a9
+2026-01-19 18:03:36 [32minfo[39m: [general] - 	tx sent 0xcaf0a2df70537017429b58ad86dd68168f194c7d3894d935537b04b6ea6f5d5e for polygon_amoy
+2026-01-19 18:03:38 [32minfo[39m: [general] - 	count is 4
+2026-01-19 18:03:41 [32minfo[39m: [general] - 	Record inserted for 0xcd6bbc5e43412b11ec3f7f4aafeac650f4304d2250c169627289674eb6054f8c with queue_id 45d4a2d1-2111-4ac1-964d-22af85582d83
+2026-01-19 18:03:41 [32minfo[39m: [general] - 	tx sent 0xcd6bbc5e43412b11ec3f7f4aafeac650f4304d2250c169627289674eb6054f8c for polygon_amoy
+2026-01-19 18:03:43 [32minfo[39m: [general] - 	count is 5
+2026-01-19 18:03:46 [32minfo[39m: [general] - 	Record inserted for 0xec4687f93024cbd8366fbec582e5135b9147ad5a7a422efefc709aab4b9ca116 with queue_id 176aa8b9-2b76-4605-ba18-fe967892cb05
+2026-01-19 18:03:46 [32minfo[39m: [general] - 	tx sent 0xec4687f93024cbd8366fbec582e5135b9147ad5a7a422efefc709aab4b9ca116 for polygon_amoy
+2026-01-19 18:03:48 [32minfo[39m: [general] - 	count is 6
+2026-01-19 18:03:51 [32minfo[39m: [general] - 	Record inserted for 0x88cc47a5df3ef6975c6410fa16363f53a060d952ac1f591faed217c3a845aee4 with queue_id 3a55542f-4141-4ed7-bfe9-34da5b562d43
+2026-01-19 18:03:51 [32minfo[39m: [general] - 	tx sent 0x88cc47a5df3ef6975c6410fa16363f53a060d952ac1f591faed217c3a845aee4 for polygon_amoy
+2026-01-19 18:03:53 [32minfo[39m: [general] - 	count is 7
+2026-01-19 18:03:56 [32minfo[39m: [general] - 	Record inserted for 0x76d3ef5073ba61496d1c717594c3aee5ceb28580c8040dca4d2ec9a7b0d5644d with queue_id 4da86ae8-5de0-4310-8d2e-d3303a288c01
+2026-01-19 18:03:56 [32minfo[39m: [general] - 	tx sent 0x76d3ef5073ba61496d1c717594c3aee5ceb28580c8040dca4d2ec9a7b0d5644d for polygon_amoy
+2026-01-19 18:03:58 [32minfo[39m: [general] - 	count is 8
+2026-01-19 18:04:01 [32minfo[39m: [general] - 	Record inserted for 0x5606e83eed400904428b3eb65f6cf7d22d102059ceaa4148568d9ebd78f5641e with queue_id c7ae0c91-8e75-48e7-ad3b-3b28858705ff
+2026-01-19 18:04:01 [32minfo[39m: [general] - 	tx sent 0x5606e83eed400904428b3eb65f6cf7d22d102059ceaa4148568d9ebd78f5641e for polygon_amoy
+2026-01-19 18:24:47 [32minfo[39m: [general] - 	service_1amoy running on port 7001
+2026-01-19 18:28:29 [32minfo[39m: [general] - 	service_1amoy running on port 7001
+2026-01-19 18:29:07 [32minfo[39m: [general] - 	service_1amoy running on port 7001
+2026-01-19 18:33:12 [32minfo[39m: [general] - 	service_1amoy running on port 7001

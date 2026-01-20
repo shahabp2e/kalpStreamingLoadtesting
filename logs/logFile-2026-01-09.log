@@ -1,0 +1,124 @@
+2026-01-10 00:28:33 [32minfo[39m: [general] - 	undefined running on port undefined
+2026-01-10 00:34:08 [32minfo[39m: [general] - 	undefined running on port undefined
+2026-01-10 00:35:10 [32minfo[39m: [general] - 	undefined running on port undefined
+2026-01-10 00:37:49 [32minfo[39m: [general] - 	undefined running on port undefined
+2026-01-10 00:44:16 [32minfo[39m: [general] - 	service_3celo_Sepolia \ running on port 4000 \
+2026-01-10 00:44:16 [31merror[39m: [undefined] - 	Failed to initialize DB schema syntax error at or near "\"
+2026-01-10 00:45:47 [32minfo[39m: [general] - 	service_3celo_Sepolia running on port 4000
+2026-01-10 00:45:48 [32minfo[39m: [general] - 	count is 1
+2026-01-10 00:47:29 [32minfo[39m: [general] - 	count is 2
+2026-01-10 00:47:34 [32minfo[39m: [general] - 	count is 3
+2026-01-10 00:47:39 [32minfo[39m: [general] - 	count is 4
+2026-01-10 00:47:44 [32minfo[39m: [general] - 	count is 5
+2026-01-10 00:47:49 [32minfo[39m: [general] - 	count is 6
+2026-01-10 00:47:54 [32minfo[39m: [general] - 	count is 7
+2026-01-10 00:47:59 [32minfo[39m: [general] - 	count is 8
+2026-01-10 00:48:04 [32minfo[39m: [general] - 	count is 9
+2026-01-10 00:48:09 [32minfo[39m: [general] - 	count is 10
+2026-01-10 00:48:14 [32minfo[39m: [general] - 	count is 11
+2026-01-10 00:48:19 [32minfo[39m: [general] - 	count is 12
+2026-01-10 00:48:24 [32minfo[39m: [general] - 	count is 13
+2026-01-10 00:48:29 [32minfo[39m: [general] - 	count is 14
+2026-01-10 00:48:34 [32minfo[39m: [general] - 	count is 15
+2026-01-10 00:48:39 [32minfo[39m: [general] - 	count is 16
+2026-01-10 00:48:44 [32minfo[39m: [general] - 	count is 17
+2026-01-10 00:48:49 [32minfo[39m: [general] - 	count is 18
+2026-01-10 00:48:54 [32minfo[39m: [general] - 	count is 19
+2026-01-10 00:48:59 [32minfo[39m: [general] - 	count is 20
+2026-01-10 00:49:04 [32minfo[39m: [general] - 	count is 21
+2026-01-10 00:49:09 [32minfo[39m: [general] - 	count is 22
+2026-01-10 00:49:14 [32minfo[39m: [general] - 	count is 23
+2026-01-10 00:49:19 [32minfo[39m: [general] - 	count is 24
+2026-01-10 00:49:24 [32minfo[39m: [general] - 	count is 25
+2026-01-10 00:49:29 [32minfo[39m: [general] - 	count is 26
+2026-01-10 00:49:34 [32minfo[39m: [general] - 	count is 27
+2026-01-10 00:49:39 [32minfo[39m: [general] - 	count is 28
+2026-01-10 00:49:44 [32minfo[39m: [general] - 	count is 29
+2026-01-10 00:49:49 [32minfo[39m: [general] - 	count is 30
+2026-01-10 00:49:54 [32minfo[39m: [general] - 	count is 31
+2026-01-10 00:49:59 [32minfo[39m: [general] - 	count is 32
+2026-01-10 00:50:04 [32minfo[39m: [general] - 	count is 33
+2026-01-10 00:50:09 [32minfo[39m: [general] - 	count is 34
+2026-01-10 00:50:14 [32minfo[39m: [general] - 	count is 35
+2026-01-10 00:50:19 [32minfo[39m: [general] - 	count is 36
+2026-01-10 00:50:24 [32minfo[39m: [general] - 	count is 37
+2026-01-10 00:50:27 [32minfo[39m: [general] - 	service_3celo_Sepolia running on port 4000
+2026-01-10 00:50:27 [32minfo[39m: [general] - 	count is 1
+2026-01-10 00:51:00 [32minfo[39m: [general] - 	count is 2
+2026-01-10 00:51:05 [32minfo[39m: [general] - 	count is 3
+2026-01-10 00:51:10 [32minfo[39m: [general] - 	count is 4
+2026-01-10 00:51:15 [32minfo[39m: [general] - 	count is 5
+2026-01-10 00:51:20 [32minfo[39m: [general] - 	count is 6
+2026-01-10 00:51:25 [32minfo[39m: [general] - 	count is 7
+2026-01-10 00:51:30 [32minfo[39m: [general] - 	count is 8
+2026-01-10 00:51:35 [32minfo[39m: [general] - 	count is 9
+2026-01-10 00:51:40 [32minfo[39m: [general] - 	count is 10
+2026-01-10 00:51:45 [32minfo[39m: [general] - 	count is 11
+2026-01-10 00:51:50 [32minfo[39m: [general] - 	count is 12
+2026-01-10 00:51:55 [32minfo[39m: [general] - 	count is 13
+2026-01-10 00:52:00 [32minfo[39m: [general] - 	count is 14
+2026-01-10 00:52:05 [32minfo[39m: [general] - 	count is 15
+2026-01-10 00:52:10 [32minfo[39m: [general] - 	count is 16
+2026-01-10 00:52:15 [32minfo[39m: [general] - 	count is 17
+2026-01-10 00:52:20 [32minfo[39m: [general] - 	count is 18
+2026-01-10 00:52:25 [32minfo[39m: [general] - 	count is 19
+2026-01-10 00:52:30 [32minfo[39m: [general] - 	count is 20
+2026-01-10 00:52:35 [32minfo[39m: [general] - 	count is 21
+2026-01-10 00:52:40 [32minfo[39m: [general] - 	count is 22
+2026-01-10 00:52:45 [32minfo[39m: [general] - 	count is 23
+2026-01-10 00:52:50 [32minfo[39m: [general] - 	count is 24
+2026-01-10 00:52:55 [32minfo[39m: [general] - 	count is 25
+2026-01-10 00:53:00 [32minfo[39m: [general] - 	count is 26
+2026-01-10 00:53:05 [32minfo[39m: [general] - 	count is 27
+2026-01-10 00:53:10 [32minfo[39m: [general] - 	count is 28
+2026-01-10 00:53:15 [32minfo[39m: [general] - 	count is 29
+2026-01-10 00:53:20 [32minfo[39m: [general] - 	count is 30
+2026-01-10 00:53:25 [32minfo[39m: [general] - 	count is 31
+2026-01-10 00:53:30 [32minfo[39m: [general] - 	count is 32
+2026-01-10 00:53:35 [32minfo[39m: [general] - 	count is 33
+2026-01-10 00:53:39 [32minfo[39m: [general] - 	service_3celo_Sepolia running on port 4000
+2026-01-10 00:53:39 [32minfo[39m: [general] - 	count is 1
+2026-01-10 00:54:12 [32minfo[39m: [general] - 	count is 2
+2026-01-10 00:54:17 [32minfo[39m: [general] - 	count is 3
+2026-01-10 00:54:22 [32minfo[39m: [general] - 	count is 4
+2026-01-10 00:54:27 [32minfo[39m: [general] - 	count is 5
+2026-01-10 00:54:32 [32minfo[39m: [general] - 	count is 6
+2026-01-10 00:54:37 [32minfo[39m: [general] - 	count is 7
+2026-01-10 00:54:42 [32minfo[39m: [general] - 	count is 8
+2026-01-10 00:54:47 [32minfo[39m: [general] - 	count is 9
+2026-01-10 00:54:52 [32minfo[39m: [general] - 	count is 10
+2026-01-10 00:54:57 [32minfo[39m: [general] - 	count is 11
+2026-01-10 00:55:02 [32minfo[39m: [general] - 	count is 12
+2026-01-10 00:55:07 [32minfo[39m: [general] - 	count is 13
+2026-01-10 00:55:12 [32minfo[39m: [general] - 	count is 14
+2026-01-10 00:55:17 [32minfo[39m: [general] - 	count is 15
+2026-01-10 00:55:22 [32minfo[39m: [general] - 	count is 16
+2026-01-10 00:55:27 [32minfo[39m: [general] - 	count is 17
+2026-01-10 00:55:32 [32minfo[39m: [general] - 	count is 18
+2026-01-10 00:55:37 [32minfo[39m: [general] - 	count is 19
+2026-01-10 00:55:42 [32minfo[39m: [general] - 	count is 20
+2026-01-10 00:56:39 [32minfo[39m: [general] - 	service_3celo_Sepolia running on port 4000
+2026-01-10 00:56:40 [32minfo[39m: [general] - 	count is 1
+2026-01-10 00:57:13 [32minfo[39m: [general] - 	count is 2
+2026-01-10 00:57:17 [32minfo[39m: [general] - 	count is 3
+2026-01-10 00:57:23 [32minfo[39m: [general] - 	count is 4
+2026-01-10 00:57:27 [32minfo[39m: [general] - 	count is 5
+2026-01-10 00:57:32 [32minfo[39m: [general] - 	count is 6
+2026-01-10 00:57:37 [32minfo[39m: [general] - 	count is 7
+2026-01-10 00:57:43 [32minfo[39m: [general] - 	service_3celo_Sepolia running on port 4000
+2026-01-10 00:57:43 [32minfo[39m: [general] - 	count is 1
+2026-01-10 00:58:16 [32minfo[39m: [general] - 	count is 2
+2026-01-10 00:58:21 [32minfo[39m: [general] - 	count is 3
+2026-01-10 00:58:26 [32minfo[39m: [general] - 	count is 4
+2026-01-10 00:58:31 [32minfo[39m: [general] - 	count is 5
+2026-01-10 00:58:36 [32minfo[39m: [general] - 	count is 6
+2026-01-10 00:58:41 [32minfo[39m: [general] - 	count is 7
+2026-01-10 00:58:46 [32minfo[39m: [general] - 	count is 8
+2026-01-10 00:58:51 [32minfo[39m: [general] - 	count is 9
+2026-01-10 00:58:56 [32minfo[39m: [general] - 	count is 10
+2026-01-10 00:59:01 [32minfo[39m: [general] - 	count is 11
+2026-01-10 00:59:06 [32minfo[39m: [general] - 	count is 12
+2026-01-10 00:59:11 [32minfo[39m: [general] - 	count is 13
+2026-01-10 00:59:16 [32minfo[39m: [general] - 	count is 14
+2026-01-10 00:59:21 [32minfo[39m: [general] - 	count is 15
+2026-01-10 01:11:50 [32minfo[39m: [general] - 	undefined running on port undefined
